@@ -58,19 +58,19 @@
         <text>Any legal dwelling unit but does not include accessory dwelling units.</text>
       </para>
     </include>
-    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(f)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(g)" codified:citation="Section 5.66.020" codified:display="Amend">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(f)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(g)">
       <num>(g)</num>
     </codify:replace>
-    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(e)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(f)" codified:citation="Section 5.66.020" codified:display="Amend">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(e)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(f)">
       <num>(f)</num>
     </codify:replace>
-    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(d)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(e)" codified:citation="Section 5.66.020" codified:display="Amend">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(d)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(e)">
       <num>(e)</num>
     </codify:replace>
-    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(c)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(d)" codified:citation="Section 5.66.020" codified:display="Amend">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(c)|num" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(d)">
       <num>(d)</num>
     </codify:replace>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="5.66.020" after="(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(c)" codified:citation="Section 5.66.020" codified:display="Amend">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="5.66.020" after="(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.020|(c)">
       <para>
         <num>(c)</num>
         <heading>Dwelling Unit.</heading>
@@ -82,7 +82,7 @@
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66.040">Section 5.66.040</cite>, "Operating Standards," is amended to read as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="5.66.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.040" codified:citation="Section 5.66.040" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="5.66.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.040"/>
       <text>The following operating standards shall apply to Short-Term Rentals:</text>
       <para>
         <num>(a)</num>
@@ -126,7 +126,7 @@
     <num>3</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66.050">Section 5.66.050</cite>, "Registration and Annual Renewal," is amended to read as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="5.66.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.050" codified:citation="Section 5.66.050" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="5.66.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.050"/>
       <para>
         <num>(a)</num>
         <text>Application. Prior to advertising or making available the Dwelling Unit for Short-term Rental, Hosts shall register a Dwelling Unit as a Short-Term Rental with the City. This registration shall be submitted on a form prepared by the City and shall include the name and contact information of the Host, the address of the Dwelling Unit being used for Short-Term Rental, the contact information for the local contact person, an acknowledgement of compliance with the requirements of the City's Zoning Ordinance, Municipal Codes, including the requirement to obtain a business license, applicable health and safety standards, and other information as requested.</text>
