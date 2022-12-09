@@ -555,6 +555,60 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>10.28</num>
+    <heading>Safe Gun Storage</heading>
+    <annotation app="2020-11-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-11-21" path="§1" type="History"/>
+    <section>
+      <num>10.28.010</num>
+      <heading>Title</heading>
+      <text><cite path="10.28">This Chapter</cite> shall be known as Safe Gun Storage.</text>
+      <annotations>
+        <annotation app="2020-11-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-11-21" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>10.28.020</num>
+      <heading>Definitions</heading>
+      <text>For the purposes of the <cite path="10.28">Chapter 10.28</cite>, the following words and phrases shall have the meaning set forth herein:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Firearm" means a device, designed to be used as a weapon, from which is expelled through a barrel, a projectile by the force of an explosion or other form of combustion.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Locked container" means a secure container that is fully enclosed and locked by a padlock, keylock, combination lock, or similar locking device. "Locked container" shall not include the utility or glove compartment of a motor vehicle.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Locking device" means a trigger lock or other designed to prevent a firearm from functioning and, when applied to the firearm, renders the firearm inoperable.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Unloaded" means without a cartridge in the chamber of the firearm; in the cylinder of the firearm, if the firearm is a revolver; or in the magazine of the firearm, if any part of the magazine is in or affixed to the firearm.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-11-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-11-21" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>10.28.030</num>
+      <heading>Safe Gun Storage Required</heading>
+      <text>No person shall store or keep any firearm on any premises unless the firearm is unloaded and in a locked container, or unloaded and affixed with a locking device; or carried on the person, or is otherwise in the immediate possession of an individual in accordance with all applicable laws.</text>
+      <annotations>
+        <annotation app="2020-11-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-11-21" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>10.28.040</num>
+      <heading>Violations and Enforcement</heading>
+      <text>Any violation of <cite path="10.28">this chapter</cite> is punishable as specified in <cite path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
+      <annotations>
+        <annotation app="2020-11-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-11-21" path="§1" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>10.34</num>
     <heading>CHARITABLE BINGO GAMES—PERMITS</heading>
     <section>

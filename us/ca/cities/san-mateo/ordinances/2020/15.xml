@@ -47,7 +47,7 @@
   <section>
     <num>1</num>
     <text>Section 1. <cite doc="City of San Mateo, Cal., Code" path="10.28">Chapter 10.28</cite> "Safe Gun Storage" is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10, "Peace, Safety and Morals" of the San Mateo Municipal Code</cite> to read as follows:</text>
-    <codify:insert path="10" after="10.26" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28" codified:citation="Chapter 10.28" codified:display="New">
+    <codify:insert path="10" after="10.26" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28">
       <container>
         <prefix>Chapter</prefix>
         <num>10.28</num>
@@ -60,13 +60,13 @@
         <num>10.28</num>
         <heading>Safe Gun Storage</heading>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.010" codified:citation="Section 10.28.010" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.010"/>
           <num>10.28.010</num>
           <heading>Title</heading>
           <text><cite doc="City of San Mateo, Cal., Code" path="10.28">This Chapter</cite> shall be known as Safe Gun Storage.</text>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.020" codified:citation="Section 10.28.020" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.020"/>
           <num>10.28.020</num>
           <heading>Definitions</heading>
           <text>For the purposes of the <cite doc="City of San Mateo, Cal., Code" path="10.28">Chapter 10.28</cite>, the following words and phrases shall have the meaning set forth herein:</text>
@@ -88,13 +88,13 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.030" codified:citation="Section 10.28.030" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.030"/>
           <num>10.28.030</num>
           <heading>Safe Gun Storage Required</heading>
           <text>No person shall store or keep any firearm on any premises unless the firearm is unloaded and in a locked container, or unloaded and affixed with a locking device; or carried on the person, or is otherwise in the immediate possession of an individual in accordance with all applicable laws.</text>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.040" codified:citation="Section 10.28.040" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|10.28.040"/>
           <num>10.28.040</num>
           <heading>Violations and Enforcement</heading>
           <text>Any violation of <cite doc="City of San Mateo, Cal., Code" path="10.28">this chapter</cite> is punishable as specified in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
