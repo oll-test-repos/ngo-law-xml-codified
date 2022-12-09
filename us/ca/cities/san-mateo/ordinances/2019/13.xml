@@ -49,32 +49,32 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.06.011">23.06.011</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.012">23.06.012</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.014">23.06.014</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.015">23.06.015</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.016">23.06.016</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.020">23.06.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.021">23.06.021</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.030">23.06.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.040">23.06.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.050">23.06.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.070">23.06.070</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.080">23.06.080</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.090">23.06.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.110">23.06.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.130">23.06.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.160">23.06.160</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.06.170">23.06.170</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.06.011" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.011" codified:citation="Section 23.06.011" codified:display="Repeal"/>
-      <codify:repeal path="23.06.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.012" codified:citation="Section 23.06.012" codified:display="Repeal"/>
-      <codify:repeal path="23.06.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.014" codified:citation="Section 23.06.014" codified:display="Repeal"/>
-      <codify:repeal path="23.06.015" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.015" codified:citation="Section 23.06.015" codified:display="Repeal"/>
-      <codify:repeal path="23.06.016" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.016" codified:citation="Section 23.06.016" codified:display="Repeal"/>
-      <codify:repeal path="23.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.020" codified:citation="Section 23.06.020" codified:display="Repeal"/>
-      <codify:repeal path="23.06.021" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.021" codified:citation="Section 23.06.021" codified:display="Repeal"/>
-      <codify:repeal path="23.06.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.030" codified:citation="Section 23.06.030" codified:display="Repeal"/>
-      <codify:repeal path="23.06.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.040" codified:citation="Section 23.06.040" codified:display="Repeal"/>
-      <codify:repeal path="23.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.050" codified:citation="Section 23.06.050" codified:display="Repeal"/>
-      <codify:repeal path="23.06.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.070" codified:citation="Section 23.06.070" codified:display="Repeal"/>
-      <codify:repeal path="23.06.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.080" codified:citation="Section 23.06.080" codified:display="Repeal"/>
-      <codify:repeal path="23.06.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.090" codified:citation="Section 23.06.090" codified:display="Repeal"/>
-      <codify:repeal path="23.06.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.110" codified:citation="Section 23.06.110" codified:display="Repeal"/>
-      <codify:repeal path="23.06.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.130" codified:citation="Section 23.06.130" codified:display="Repeal"/>
-      <codify:repeal path="23.06.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.140" codified:citation="Section 23.06.140" codified:display="Repeal"/>
-      <codify:repeal path="23.06.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.150" codified:citation="Section 23.06.150" codified:display="Repeal"/>
-      <codify:repeal path="23.06.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.160" codified:citation="Section 23.06.160" codified:display="Repeal"/>
-      <codify:repeal path="23.06.170" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.170" codified:citation="Section 23.06.170" codified:display="Repeal"/>
+      <codify:repeal path="23.06.011" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.011"/>
+      <codify:repeal path="23.06.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.012"/>
+      <codify:repeal path="23.06.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.014"/>
+      <codify:repeal path="23.06.015" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.015"/>
+      <codify:repeal path="23.06.016" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.016"/>
+      <codify:repeal path="23.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.020"/>
+      <codify:repeal path="23.06.021" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.021"/>
+      <codify:repeal path="23.06.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.030"/>
+      <codify:repeal path="23.06.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.040"/>
+      <codify:repeal path="23.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.050"/>
+      <codify:repeal path="23.06.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.070"/>
+      <codify:repeal path="23.06.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.080"/>
+      <codify:repeal path="23.06.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.090"/>
+      <codify:repeal path="23.06.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.110"/>
+      <codify:repeal path="23.06.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.130"/>
+      <codify:repeal path="23.06.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.140"/>
+      <codify:repeal path="23.06.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.150"/>
+      <codify:repeal path="23.06.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.160"/>
+      <codify:repeal path="23.06.170" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.170"/>
     </para>
     <para>
       <num>(b)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.06.010">Section 23.06.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.06.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.010" codified:citation="Section 23.06.010" codified:display="Amend"/>
+          <codify:replace path="23.06.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.010"/>
           <num>23.06.010</num>
           <heading>Adoption</heading>
           <para>
@@ -97,7 +97,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.06.060">Section 23.06.060 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.06.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.060" codified:citation="Section 23.06.060" codified:display="Amend"/>
+          <codify:replace path="23.06.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.060"/>
           <num>23.06.060</num>
           <heading>Hours of Work</heading>
           <text>No work regulated by this code shall be permitted between the hours of 7:00 p.m. and 7:00 a.m., Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturday, nor prior to 12:00 noon or after 4:00 p.m. on Sundays and holidays. These hours do not apply to construction work that takes place inside a completely enclosed building and does not exceed the exterior ambient noise level as measured ten feet from the exterior property lines.</text>
@@ -109,7 +109,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.06.061">Section 23.06.061 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.06.061" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.061" codified:citation="Section 23.06.061" codified:display="Amend"/>
+          <codify:replace path="23.06.061" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.061"/>
           <num>23.06.061</num>
           <heading>Hours of Work Exemption</heading>
           <para>
@@ -140,7 +140,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.06.100">Section 23.06.100 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.06.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.100" codified:citation="Section 23.06.100" codified:display="Amend"/>
+          <codify:replace path="23.06.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.100"/>
           <num>23.06.100</num>
           <heading>Demolition Permits</heading>
           <para>
@@ -207,7 +207,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.06.120">Section 23.06.120 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.06.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.120" codified:citation="Section 23.06.120" codified:display="Amend"/>
+          <codify:replace path="23.06.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.06.120"/>
           <num>23.06.120</num>
           <heading>Fees</heading>
           <para>
@@ -257,19 +257,19 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.07.020">23.07.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.030">23.07.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.040">23.07.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.060">23.07.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.070">23.07.070</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.07.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.020" codified:citation="Section 23.07.020" codified:display="Repeal"/>
-      <codify:repeal path="23.07.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.030" codified:citation="Section 23.07.030" codified:display="Repeal"/>
-      <codify:repeal path="23.07.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.040" codified:citation="Section 23.07.040" codified:display="Repeal"/>
-      <codify:repeal path="23.07.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.060" codified:citation="Section 23.07.060" codified:display="Repeal"/>
-      <codify:repeal path="23.07.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.070" codified:citation="Section 23.07.070" codified:display="Repeal"/>
-      <codify:repeal path="23.07.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.080" codified:citation="Section 23.07.080" codified:display="Repeal"/>
+      <codify:repeal path="23.07.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.020"/>
+      <codify:repeal path="23.07.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.030"/>
+      <codify:repeal path="23.07.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.040"/>
+      <codify:repeal path="23.07.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.060"/>
+      <codify:repeal path="23.07.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.070"/>
+      <codify:repeal path="23.07.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.080"/>
     </para>
     <para>
       <num>(b)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.07.010">Section 23.07.010</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.07.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.010" codified:citation="Section 23.07.010" codified:display="Amend"/>
+          <codify:replace path="23.07.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.07.010"/>
           <num>23.07.010</num>
           <heading>Adoption</heading>
           <para>
@@ -294,19 +294,19 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.08.020">23.08.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.030">23.08.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.040">23.08.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.045">23.08.045</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.090">23.08.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.080">23.08.080</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.08.160">23.08.160</cite> of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.020" codified:citation="Section 23.08.020" codified:display="Repeal"/>
-      <codify:repeal path="23.08.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.030" codified:citation="Section 23.08.030" codified:display="Repeal"/>
-      <codify:repeal path="23.08.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.040" codified:citation="Section 23.08.040" codified:display="Repeal"/>
-      <codify:repeal path="23.08.045" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.045" codified:citation="Section 23.08.045" codified:display="Repeal"/>
-      <codify:repeal path="23.08.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.090" codified:citation="Section 23.08.090" codified:display="Repeal"/>
-      <codify:repeal path="23.08.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.160" codified:citation="Section 23.08.160" codified:display="Repeal"/>
+      <codify:repeal path="23.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.020"/>
+      <codify:repeal path="23.08.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.030"/>
+      <codify:repeal path="23.08.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.040"/>
+      <codify:repeal path="23.08.045" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.045"/>
+      <codify:repeal path="23.08.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.090"/>
+      <codify:repeal path="23.08.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.160"/>
     </para>
     <para>
       <num>(b)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.08.010">Section 23.08.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.08.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.010" codified:citation="Section 23.08.010" codified:display="Amend"/>
+          <codify:replace path="23.08.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.010"/>
           <num>23.08.010</num>
           <heading>Adoption</heading>
           <para>
@@ -329,7 +329,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.08.130">Section 23.08.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.08.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.130" codified:citation="Section 23.08.130" codified:display="Amend"/>
+          <codify:replace path="23.08.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.08.130"/>
           <num>23.08.130</num>
           <heading>Section 1905.1.8 Plain Concrete In Earthquake Resisting Structures Amended</heading>
           <text>1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
@@ -360,7 +360,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.09.010">Section 23.09.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.09.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.09.010" codified:citation="Section 23.09.010" codified:display="Amend"/>
+        <codify:replace path="23.09.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.09.010"/>
         <num>23.09.010</num>
         <heading>Adoption</heading>
         <para>
@@ -381,18 +381,18 @@
   <section>
     <num>5</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal path="23.10" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010" codified:citation="Section 23.10.010" codified:display="Repeal"/>
-    <codify:repeal path="23.10.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010" codified:citation="Section 23.10.010" codified:display="Repeal"/>
-    <codify:repeal path="23.10.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.012" codified:citation="Section 23.10.012" codified:display="Repeal"/>
-    <codify:repeal path="23.10.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.014" codified:citation="Section 23.10.014" codified:display="Repeal"/>
-    <codify:repeal path="23.10.016" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.016" codified:citation="Section 23.10.016" codified:display="Repeal"/>
+    <codify:repeal path="23.10" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010"/>
+    <codify:repeal path="23.10.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.010"/>
+    <codify:repeal path="23.10.012" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.012"/>
+    <codify:repeal path="23.10.014" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.014"/>
+    <codify:repeal path="23.10.016" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.10.016"/>
   </section>
   <section>
     <num>6</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.12.010">Section 23.12.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.12.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.12.010" codified:citation="Section 23.12.010" codified:display="Amend"/>
+        <codify:replace path="23.12.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.12.010"/>
         <num>23.12.010</num>
         <heading>Adoption</heading>
         <para>
@@ -415,7 +415,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.16.010">Section 23.16.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.16.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.16.010" codified:citation="Section 23.16.010" codified:display="Amend"/>
+        <codify:replace path="23.16.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.16.010"/>
         <num>23.16.010</num>
         <heading>Adoption</heading>
         <para>
@@ -438,7 +438,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.20.010">Section 23.20.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.20.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.20.010" codified:citation="Section 23.20.010" codified:display="Amend"/>
+        <codify:replace path="23.20.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.20.010"/>
         <num>23.20.010</num>
         <heading>Adoption</heading>
         <para>
@@ -462,35 +462,35 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.020">23.28.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.030">23.28.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.040">23.28.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.050">23.28.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.060">23.28.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.090">23.28.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.100">23.28.100</cite>. <cite doc="City of San Mateo, Cal., Code" path="23.28.110">23.28.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.120">23.28.120</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.130">23.28.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.140">23.28.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.145">23.28.145</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.150">23.28.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.170">23.28.170</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.180">23.28.180</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.190">23.28.190</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.200">23.28.200</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.210">23.28.210</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.220">23.28.220</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.230">23.28.230</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.28.240">23.28.240 </cite>of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.28.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.020" codified:citation="Section 23.28.020" codified:display="Repeal"/>
-      <codify:repeal path="23.28.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.030" codified:citation="Section 23.28.030" codified:display="Repeal"/>
-      <codify:repeal path="23.28.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.040" codified:citation="Section 23.28.040" codified:display="Repeal"/>
-      <codify:repeal path="23.28.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.050" codified:citation="Section 23.28.050" codified:display="Repeal"/>
-      <codify:repeal path="23.28.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.060" codified:citation="Section 23.28.060" codified:display="Repeal"/>
-      <codify:repeal path="23.28.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.090" codified:citation="Section 23.28.090" codified:display="Repeal"/>
-      <codify:repeal path="23.28.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.100" codified:citation="Section 23.28.100" codified:display="Repeal"/>
-      <codify:repeal path="23.28.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.110" codified:citation="Section 23.28.110" codified:display="Repeal"/>
-      <codify:repeal path="23.28.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.120" codified:citation="Section 23.28.120" codified:display="Repeal"/>
-      <codify:repeal path="23.28.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.130" codified:citation="Section 23.28.130" codified:display="Repeal"/>
-      <codify:repeal path="23.28.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.140" codified:citation="Section 23.28.140" codified:display="Repeal"/>
-      <codify:repeal path="23.28.145" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.145" codified:citation="Section 23.28.145" codified:display="Repeal"/>
-      <codify:repeal path="23.28.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.150" codified:citation="Section 23.28.150" codified:display="Repeal"/>
-      <codify:repeal path="23.28.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.160" codified:citation="Section 23.28.160" codified:display="Repeal"/>
-      <codify:repeal path="23.28.170" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.170" codified:citation="Section 23.28.170" codified:display="Repeal"/>
-      <codify:repeal path="23.28.180" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.180" codified:citation="Section 23.28.180" codified:display="Repeal"/>
-      <codify:repeal path="23.28.190" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.190" codified:citation="Section 23.28.190" codified:display="Repeal"/>
-      <codify:repeal path="23.28.200" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.200" codified:citation="Section 23.28.200" codified:display="Repeal"/>
-      <codify:repeal path="23.28.210" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.210" codified:citation="Section 23.28.210" codified:display="Repeal"/>
-      <codify:repeal path="23.28.220" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.220" codified:citation="Section 23.28.220" codified:display="Repeal"/>
-      <codify:repeal path="23.28.230" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.230" codified:citation="Section 23.28.230" codified:display="Repeal"/>
-      <codify:repeal path="23.28.240" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.240" codified:citation="Section 23.28.240" codified:display="Repeal"/>
+      <codify:repeal path="23.28.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.020"/>
+      <codify:repeal path="23.28.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.030"/>
+      <codify:repeal path="23.28.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.040"/>
+      <codify:repeal path="23.28.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.050"/>
+      <codify:repeal path="23.28.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.060"/>
+      <codify:repeal path="23.28.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.090"/>
+      <codify:repeal path="23.28.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.100"/>
+      <codify:repeal path="23.28.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.110"/>
+      <codify:repeal path="23.28.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.120"/>
+      <codify:repeal path="23.28.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.130"/>
+      <codify:repeal path="23.28.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.140"/>
+      <codify:repeal path="23.28.145" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.145"/>
+      <codify:repeal path="23.28.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.150"/>
+      <codify:repeal path="23.28.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.160"/>
+      <codify:repeal path="23.28.170" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.170"/>
+      <codify:repeal path="23.28.180" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.180"/>
+      <codify:repeal path="23.28.190" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.190"/>
+      <codify:repeal path="23.28.200" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.200"/>
+      <codify:repeal path="23.28.210" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.210"/>
+      <codify:repeal path="23.28.220" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.220"/>
+      <codify:repeal path="23.28.230" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.230"/>
+      <codify:repeal path="23.28.240" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.240"/>
     </para>
     <para>
       <num>(b)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.28.010">Section 23.28.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.28.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.010" codified:citation="Section 23.28.010" codified:display="Amend"/>
+          <codify:replace path="23.28.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.28.010"/>
           <num>23.28.010</num>
           <heading>Adoption</heading>
           <para>
@@ -512,18 +512,18 @@
   <section>
     <num>10</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.32">Chapter 23.32 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal path="23.32" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010" codified:citation="Section 23.32.010" codified:display="Repeal"/>
-    <codify:repeal path="23.32.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010" codified:citation="Section 23.32.010" codified:display="Repeal"/>
-    <codify:repeal path="23.32.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.020" codified:citation="Section 23.32.020" codified:display="Repeal"/>
-    <codify:repeal path="23.32.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.030" codified:citation="Section 23.32.030" codified:display="Repeal"/>
-    <codify:repeal path="23.32.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.040" codified:citation="Section 23.32.040" codified:display="Repeal"/>
-    <codify:repeal path="23.32.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.050" codified:citation="Section 23.32.050" codified:display="Repeal"/>
-    <codify:repeal path="23.32.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.060" codified:citation="Section 23.32.060" codified:display="Repeal"/>
-    <codify:repeal path="23.32.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.070" codified:citation="Section 23.32.070" codified:display="Repeal"/>
-    <codify:repeal path="23.32.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.080" codified:citation="Section 23.32.080" codified:display="Repeal"/>
-    <codify:repeal path="23.32.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.090" codified:citation="Section 23.32.090" codified:display="Repeal"/>
-    <codify:repeal path="23.32.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.100" codified:citation="Section 23.32.100" codified:display="Repeal"/>
-    <codify:repeal path="23.32.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.110" codified:citation="Section 23.32.110" codified:display="Repeal"/>
+    <codify:repeal path="23.32" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010"/>
+    <codify:repeal path="23.32.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.010"/>
+    <codify:repeal path="23.32.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.020"/>
+    <codify:repeal path="23.32.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.030"/>
+    <codify:repeal path="23.32.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.040"/>
+    <codify:repeal path="23.32.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.050"/>
+    <codify:repeal path="23.32.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.060"/>
+    <codify:repeal path="23.32.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.070"/>
+    <codify:repeal path="23.32.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.080"/>
+    <codify:repeal path="23.32.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.090"/>
+    <codify:repeal path="23.32.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.100"/>
+    <codify:repeal path="23.32.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.32.110"/>
   </section>
   <section>
     <num>11</num>
@@ -532,7 +532,7 @@
     <para>
       <num>(a)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.36">Chapter 23.36 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
-      <codify:insert path="23" before="23.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.36" codified:citation="Chapter 23.36" codified:display="New">
+      <codify:insert path="23" before="23.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.36">
         <container>
           <prefix>Chapter</prefix>
           <num>23.36</num>
@@ -545,7 +545,7 @@
           <num>23.36</num>
           <heading>Historical Building Code</heading>
           <section>
-            <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|23.36.010" codified:citation="Section 23.36.010" codified:display="New"/>
+            <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|23.36.010"/>
             <num>23.36.010</num>
             <heading>Adoption</heading>
             <para>
@@ -572,7 +572,7 @@
     <para>
       <num>(a)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.38">Chapter 23.38 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
-      <codify:insert path="23" before="23.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38" codified:citation="Chapter 23.38" codified:display="New">
+      <codify:insert path="23" before="23.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38">
         <container>
           <prefix>Chapter</prefix>
           <num>23.38</num>
@@ -585,7 +585,7 @@
           <num>23.38</num>
           <heading>Referenced Standards Code</heading>
           <section>
-            <codify:insert num-value="23.38.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38.010" codified:citation="Section 23.38.010" codified:display="New"/>
+            <codify:insert num-value="23.38.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38.010"/>
             <num>23.36.010</num>
             <heading>Adoption</heading>
             <para>
@@ -614,7 +614,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060">Section 23.24.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.24.060" applicability="2020-01-01" delay="50" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.060" codified:citation="Section 23.24.060" codified:display="Amend"/>
+          <codify:replace path="23.24.060" applicability="2020-01-01" delay="50" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.010"/>
           <num>23.24.060</num>
           <heading>Modifications</heading>
           <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request a modification as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> of this Code. In applying for the modification, the burden is on the Applicant to demonstrate infeasibility to the City's Building Official.</text>
@@ -626,7 +626,7 @@
       <text><cite doc="City of San Mateo, Cal., Code" path="23.44.060">Section 23.44.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.44.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.44.060" codified:citation="Section 23.44.060" codified:display="Amend"/>
+          <codify:replace path="23.44.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.44.060"/>
           <num>23.44.060</num>
           <heading>Submittal Review, Permit, And Inspection</heading>
           <para>
@@ -658,7 +658,7 @@
       <text>Section 23.70.70 of the San Mateo Municipal Code is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.70.070" applicability="2020-01-01" delay="20" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.70.070" codified:citation="Section 23.70.070" codified:display="Amend"/>
+          <codify:replace path="23.70.070" applicability="2020-01-01" delay="20" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.70.010"/>
           <num>23.70.070</num>
           <heading>Modifications</heading>
           <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request a modification set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to show infeasibility. The Building Official may grant a modification to exempt the applicant from these requirements if he or she makes either of the following findings:</text>
