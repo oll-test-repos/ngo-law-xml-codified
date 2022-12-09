@@ -99,12 +99,12 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89</cite> "Polystyrene-based Disposable Food Service Ware" of Title "Business Licenses and Regulations" is hereby replaced with <cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89</cite> "Disposable Food Service Ware" and amended to read:</text>
-    <codify:replace doc="City of San Mateo, Cal., Code" path="5.89|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89" codified:citation="Chapter 5.89" codified:display="Amend">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.89|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89">
       <heading>Disposable Food Service Ware</heading>
     </codify:replace>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.010" codified:citation="Section 5.89.010" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.010"/>
         <num>5.89.010</num>
         <heading>Definitions</heading>
         <text>For purposes of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>, the following terms have the following meanings:</text>
@@ -186,7 +186,7 @@
         </para>
       </section>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.020" codified:citation="Section 5.89.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.020"/>
         <num>5.89.020</num>
         <heading>Distribution of Disposable Food Service Ware Accessories</heading>
         <para>
@@ -215,7 +215,7 @@
         </para>
       </section>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.030" codified:citation="Section 5.89.030" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.030"/>
         <num>5.89.030</num>
         <heading>Standards and Required Use of Disposable Food Service Ware</heading>
         <para>
@@ -268,7 +268,7 @@
         </para>
       </section>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.040" codified:citation="Section 5.89.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.040"/>
         <num>5.89.040</num>
         <heading>Recordkeeping and Inspection</heading>
         <para>
@@ -293,7 +293,7 @@
         </para>
       </section>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.050" codified:citation="Section 5.89.050" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.050"/>
         <num>5.89.050</num>
         <heading>Automatic Exemptions</heading>
         <para>
@@ -322,7 +322,7 @@
         </para>
       </section>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.060" codified:citation="Section 5.89.060" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.060"/>
         <num>5.89.060</num>
         <heading>Case-by-Case Consideration of Requests for Hardship Exemption</heading>
         <para>
@@ -343,7 +343,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="5.89" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.070" codified:citation="Section 5.89.070" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="5.89" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.070"/>
         <num>5.89.070</num>
         <heading>Authorization for County Enforcement</heading>
         <text>In addition to the City's enforcement mechanisms set forth in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> of this code, the City of San Mateo authorizes the County of San Mateo to enforce <cite doc="City of San Mateo, Cal., Code" path="5.89">this chapter</cite> of the municipal code, including, without limitation, the authority to act on requests for undue hardship exemptions, hold hearings, issue administrative fines and retain collected fines.</text>
