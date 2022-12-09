@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89.010">Section 5.89.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="5.89.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.010" codified:citation="Section 5.89.010" codified:display="Amend"/>
+        <codify:replace path="5.89.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.010"/>
         <num>5.89.010</num>
         <heading>Definitions</heading>
         <text>For purposes of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>, the following terms have the following meanings:</text>
@@ -158,7 +158,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89.020">Section 5.89.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="5.89.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.020" codified:citation="Section 5.89.020" codified:display="Amend"/>
+        <codify:replace path="5.89.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.020"/>
         <num>5.89.020</num>
         <heading>Distribution of Disposable Food Service Ware Accessories and Standard Condiments</heading>
         <text>Except as provided in Subsection (b), Food Facilities, for on-premise dining and off-premise dining (e.g., Takeout Food Delivery Service, catering off-site, etc.), shall not provide any Disposable Food Service Ware Accessories or Standard Condiments in Disposable packaging to a consumer</text>
@@ -202,7 +202,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89.030">Section 5.89.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="5.89.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.030" codified:citation="Section 5.89.030" codified:display="Amend"/>
+        <codify:replace path="5.89.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.030"/>
         <num>5.89.030</num>
         <heading>Standards and Required Use of Disposable Food Service Ware</heading>
         <para>
@@ -265,7 +265,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89.050">Section 5.89.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="5.89.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.050" codified:citation="Section 5.89.050" codified:display="Amend"/>
+        <codify:replace path="5.89.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.050"/>
         <num>5.89.050</num>
         <heading>Automatic Exemptions</heading>
         <para>
@@ -296,7 +296,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89.060">Section 5.89.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="5.89.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.060" codified:citation="Section 5.89.060" codified:display="Amend"/>
+        <codify:replace path="5.89.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.89.060"/>
         <num>5.89.060</num>
         <heading>Authorization for County Enforcement</heading>
         <text>In addition to the City's enforcement mechanisms set forth in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> of this Code, the City of San Mateo authorizes the County of San Mateo to enforce <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> of the Municipal Code, including, without limitation, the authority to act on requests for undue hardship exemptions, hold hearings, issue administrative fines, and retain collected fines.</text>
