@@ -39,8 +39,8 @@
   <section>
     <num>1</num>
     <text>Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> of the San Mateo Municipal Code are repealed.</text>
-    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.35.010" codified:citation="Section 13.35.010" codified:display="Repeal"/>
-    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.52.010" codified:citation="Section 13.52.010" codified:display="Repeal"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.35.010"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.52.010"/>
   </section>
   <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050">
     <num>2</num>
@@ -48,7 +48,7 @@
     <para codify:path="(a)">
       <num>(a)</num>
       <text>replace the references to Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> with references to <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>; and</text>
-      <codify:find-replace codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050|(a)" codified:citation="Section 1.04.050" codified:display="Amend">
+      <codify:find-replace codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050|(a)">
         <find>Chapters <cite path="13.35">13.35</cite>, <cite path="13.52">13.52</cite></find>
         <replace>
           <cite path="13.40">Chapter 13.40</cite>
@@ -58,7 +58,7 @@
     <para>
       <num>(b)</num>
       <text>Add Managing Arborist and Director of Parks and Recreation to the list of positions authorized to enforce <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>.</text>
-      <codify:find-replace codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050" codified:citation="Section 1.04.050" codified:display="Amend">
+      <codify:find-replace codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050">
         <find>Tree Maintenance Specialist</find>
         <replace>Tree Maintenance Specialist, Managing Arborist, Director of Parks and Recreation</replace>
       </codify:find-replace>
@@ -69,7 +69,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40 of the San Mateo Municipal Code</cite> is adopted to read as follows:</text>
     <include>
       <container>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.40.010" codified:citation="Section 13.40.010" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.40.010"/>
         <prefix>Chapter</prefix>
         <num>13.40</num>
         <heading>Protected Trees</heading>
