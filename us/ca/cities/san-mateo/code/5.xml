@@ -5987,61 +5987,66 @@
     </section>
     <section>
       <num>5.92.020</num>
-      <heading>MINIMUM WAGE.</heading>
+      <heading>Minimum Wage.</heading>
       <para>
         <num>(a)</num>
         <text>Employers shall pay employees no less than the minimum wage for each hour worked within the geographic boundaries of the City.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>For employers which are not non-profit corporations, the minimum wage paid shall be as follows:</text>
         <para>
           <num>(1)</num>
-          <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $12.00.</text>
+          <text>For employers which are not non-profit corporations, the minimum wage paid shall be as follows:</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $13.50.</text>
+          <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $12.00.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $15.00.</text>
+          <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $13.50.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $15.00.</text>
+        <para>
+          <num>(1)</num>
+          <text>For employers which are non-profit corporations, the minimum wage rate shall be as follows:</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $10.50.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $12.00.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $13.50.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>For employers which are non-profit corporations, the minimum wage rate shall be as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $10.50.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $12.00.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $13.50.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Beginning January 1, 2020, the minimum wage shall be equal to that of the employers which are not non-profit corporations, and shall be subject to the Consumer Price Index increase as described in subsection (d).</text>
-        </para>
+        <text>Beginning January 1, 2020, the minimum wage shall be equal to that of the employers which are not non-profit corporations, and shall be subject to the Consumer Price Index increase as described in subsection (d), with the amount of the Minimum Wage increase rounded to the nearest five cents ($.05).</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Beginning on January 1, 2020, and each January thereafter, the minimum wage shall increase by an amount equal to the prior year's increase, if any, in the Consumer Price Index (CPI) for San Francisco-Oakland-San Jose as determined by the United States Department of Labor. The change shall be calculated by using the August to August change in the CPI to calculate the annual increase, if any. A decrease in the CPI shall not result in a decrease in the minimum wage.</text>
+        <text>Beginning on January 1, 2020, and each January thereafter, the minimum wage shall increase by an amount equal to the prior year's increase, if any, in the Consumer Price Index (CPI) for San Francisco-Oakland-San Jose as determined by the United States Department of Labor. The change shall be calculated by using the August to August change in the CPI to calculate the annual increase, up to 3.5%, as described in subsection (e). A decrease in the CPI shall not result in a decrease in the minimum wage.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>An employee who is a learner, as defined by California Industrial Welfare Commission Order No. 4-2001, shall be paid no less than 85% of the applicable minimum wage for the first 160 hours of employment. Thereafter, the employee shall be paid the applicable minimum wage rate.</text>
+        <text>Cost of living increases to the Minimum Wage based on the CPI shall not exceed 3.5% annually. When the actual CPI exceeds the 3.5% cap, the percentage amount in excess of the cap shall be applied to the following year's CPI increase, up to the 3.5% cap.  Excess amounts shall be carried over from year to year until the actual CPI and the cap-adjusted CPI are equivalent.</text>
       </para>
       <para>
         <num>(f)</num>
+        <text>An employee who is a learner, as defined by California Industrial Welfare Commission Order No. 4-2001, shall be paid no less than 85% of the applicable minimum wage for the first 160 hours of employment. Thereafter, the employee shall be paid the applicable minimum wage rate.</text>
+      </para>
+      <para>
+        <num>(g)</num>
         <text>An employer may not deduct an amount from wages due an employee on account of any tip or gratuity, or credit the amount or any part thereof, of a tip or gratuity, against, or as a part of, the wages due the employee from the employer.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-7" path="§2" type="History"/>
+        <annotation app="2022-09-14" doc="City of San Mateo, Cal., Ord. No. 2022-7" eff="2022-09-14" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
