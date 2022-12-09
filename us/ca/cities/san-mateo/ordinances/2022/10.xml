@@ -69,7 +69,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.21">Chapter 27.21 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="27" after="27.20" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21.010" codified:citation="Section 27.21.010" codified:display="New"/>
+        <codify:insert path="27" after="27.20" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21.010"/>
         <prefix>Chapter</prefix>
         <num>27.21</num>
         <heading>Two-Unit Development Residential Overlay District – R1 Districts</heading>
@@ -609,7 +609,7 @@
     <include>
       <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
     </include>
-    <codify:replace path="27.66.020|(c)|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020|(c)" codified:citation="Section 27.66.020" codified:display="Amend">
+    <codify:replace path="27.66.020|(c)|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020|(c)">
       <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
     </codify:replace>
   </section>
@@ -619,7 +619,7 @@
     <include>
       <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
     </include>
-    <codify:replace path="27.66.020|(d)|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020|(d)" codified:citation="Section 27.66.020" codified:display="Amend">
+    <codify:replace path="27.66.020|(d)|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.66.020|(d)">
       <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
     </codify:replace>
   </section>
