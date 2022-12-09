@@ -74,7 +74,7 @@
   <section>
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="10.90">Chapter 10.90 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10</cite> as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="10" after="10.80" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90" codified:citation="Chapter 10.90" codified:display="New">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="10" after="10.80" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90">
       <container>
         <prefix>Chapter</prefix>
         <num>10.90</num>
@@ -87,7 +87,7 @@
         <num>10.90</num>
         <heading>Access to Reproductive Health Care Facilities Ordinance</heading>
         <section>
-          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.010" codified:citation="Section 10.90.010" codified:display="New"/>
+          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.010"/>
           <num>10.90.010</num>
           <heading>Title and Purpose</heading>
           <para>
@@ -104,7 +104,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.020" codified:citation="Section 10.90.020" codified:display="New"/>
+          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.020"/>
           <num>10.90.020</num>
           <heading>Definitions</heading>
           <para>
@@ -165,7 +165,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.030" codified:citation="Section 10.90.030" codified:display="New"/>
+          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.030"/>
           <num>10.90.030</num>
           <heading>Interference with Access to Reproductive Health Care Facilities Prohibited</heading>
           <para>
@@ -194,7 +194,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.040" codified:citation="Section 10.90.040" codified:display="New"/>
+          <codify:insert doc="City of San Mateo, Cal., Code" path="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.90.040"/>
           <num>10.90.040</num>
           <heading>Enforcement</heading>
           <para>
