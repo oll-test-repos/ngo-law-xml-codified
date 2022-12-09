@@ -405,7 +405,7 @@
     <heading>PARK REGULATIONS</heading>
     <section>
       <num>13.20.010</num>
-      <heading>PROHIBITED CONDUCT.</heading>
+      <heading>Prohibited Conduct.</heading>
       <text>The following acts and uses are prohibited in park properties and facilities.</text>
       <para>
         <num>(a)</num>
@@ -413,11 +413,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Litter, as described in <cite path="17.08.010">Section 17.08.010</cite>. If no proper receptacles are provided, all litter shall be carried away from the premises by the person, group or organization responsible for its presence and properly disposed of elsewhere. This is to include the dumping of all household debris, trash and green waste.</text>
+        <text>Litter, as described in <cite path="17.08.010">Section 17.08.010</cite>.  If no proper receptacles are provided, all litter shall be carried away from the premises by the person, group or organization responsible for its presence and properly disposed of elsewhere. This is to include the dumping of all household debris, trash and green waste.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Possess, exhibit or use firearms, air guns, slingshots, firecrackers fireworks, torpedoes, rockets, missiles, or weapons of any sort designed or used to harm another, with the exception of peace officers authorized by the <cite doc="Cal. Penal Code" proof="needed">penal code</cite>.</text>
+        <text>Possess, exhibit or use firearms, air guns, slingshots, firecrackers fireworks, torpedoes, rockets, missiles, or weapons of any sort designed or used to harm another, with the exception of peace officers authorized by the <cite doc="Cal. Penal Code">Penal Code</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -425,7 +425,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Conduct or solicit any commercial activity or provide any class or service without having secured a vendor's permit or City contract and a business tax certificate from the Director of Finance.</text>
+        <text>Conduct or provide any class or service without having secured a vendor's permit or City contract and a business tax certificate from the Director of Finance.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -465,11 +465,12 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>No person shall use, and it is unlawful to use, a City of San Mateo skateboard facility by any person who is not wearing a helmet, knee pads, and elbow pads suitable to provide protection in the event of falls or collisions.</text>
+        <text>No person shall use, and it is unlawful to use, a City of San Mateo skateboard facility by any person who is not wearing a helmet, knee pads, and elbow pads suitable to provide protection in the event o falls or collisions.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-15" path="§2" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§5" type="History"/>
       </annotations>
     </section>
     <section>

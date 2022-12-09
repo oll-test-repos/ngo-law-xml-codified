@@ -25,7 +25,7 @@
     </section>
     <section>
       <num>17.08.020</num>
-      <heading>PLACING CERTAIN OBJECTS IN THE PUBLIC RIGHT-OF-WAY PROHIBITED.</heading>
+      <heading>Placing Certain Objects in the Public Right-of-Way Prohibited.</heading>
       <text>No person shall place or cause to be placed, anywhere upon any public way, right-of-way, street, or sidewalk, and no person owning, occupying, or having the control of any premises shall suffer to remain in front thereof, upon any sidewalk, in the public right-of-way, of the half of the street or way next to such premises any appliances, furniture, bench, inoperable vehicles, boats, machinery, foods, merchandise, implement box, debris box, mailbox, or other object, which shall be an obstruction for more than one hour at a time.</text>
       <text>The foregoing shall not apply to:</text>
       <para>
@@ -62,11 +62,15 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Bus benches and passenger waiting shelters erected by a public transit agency that conform to State building standards and do not cause a pedestrian or vehicular hazard; and</text>
+        <text>Bus benches and passenger waiting shelters erected by a public transit agency that conform to State building standards and do not cause a pedestrian or vehicular hazard;</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Restaurant seating and associated means of delineating the physical extent of the seating area conforming to the standards set forth in <cite path="27.85.030">Section 27.85.030</cite> and under permit or direction of the Superintendent of Streets.</text>
+        <text>Restaurant seating and associated means of delineating the physical extent of the seating area conforming to the standards set forth in <cite path="27.85.030">Section 27.85.030</cite> and under permit or direction of the Superintendent of Streets; and</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Sidewalk vendors.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 66.02</annotation>
@@ -76,6 +80,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-17" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-24" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-8" path="§4" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -173,41 +178,15 @@
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
+      <reason>Repealed</reason>
       <num>17.08.120</num>
       <heading>SIDEWALK SALE OR DISPLAY OF GOODS PROHIBITED—EXCEPTION—PERMIT.</heading>
-      <text>No person, owner or occupant of any store, shop, office or other place of business, shall use, authorize, or cause the use of any part of the sidewalk of any public street for the display of fruit or vegetables, or of any goods, wares or merchandise of any kind whatsoever, except temporary sidewalk sales or displays may be allowed in commercial districts only with a special permit of the City Manager subject to meeting the following terms and conditions:</text>
-      <para>
-        <num>(a)</num>
-        <text>Permits may be granted only to organized merchant groups which have existed as such for at least one year and who can furnish the required insurance coverage and be held legally accountable for meeting all conditions of the permit, except that special features may be allowed, such as art shows, refreshment stands and entertainment, provided they are sponsored by the merchant groups, included in their insurance coverage, and comply with <cite path="5">Title 5</cite> of this code by obtaining the additional permits and pay the required business license fees.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Applications for temporary sidewalk sales or displays shall be accompanied by a permit fee of $50.00 to partially defray City costs of inspection and supervision and evidence of insurance coverage of the minimum City requirements in which the City shall be named as a joint assured.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Permits may not be granted for a period in excess of three successive calendar days, nor for the same merchants group at the same general location more than once each six months.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>All encroachments upon the sidewalk permitted hereunder shall be so arranged as to allow free and safe passage thereon to all persons and otherwise meet all requirements of the Fire, Police and Community Development Departments.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Signs may be permitted in such type, size and manner of display as in the discretion of the City Manager shall be reasonably necessary and justifiable, as exceptions to the requirements of <cite path="25">Title 25</cite> of this code.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Such other terms and conditions to provide for the controls upon use of the sidewalks as shall be reasonably necessary in the public interest of health and safety.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>The limited permit authorized herein shall be in addition to all other permits allowed by this code; and the issuance thereof shall be an exception to all other provisions of this code and shall not be in violation of the zoning ordinances of the City or any zoning provisions of this code.</text>
-      </para>
+      <text>Repealed.</text>
       <annotations>
         <annotation type="History">prior code § 66.12</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-38" path="§1" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§7" type="History"/>
       </annotations>
     </section>
     <section>

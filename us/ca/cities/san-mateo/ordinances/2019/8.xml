@@ -48,7 +48,7 @@
     <text class="center">
       <strong>CHAPTER 5.03, DEFINITIONS</strong>
     </text>
-    <codify:repeal path="5.03.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.03.160" codified:citation="Section 5.03.160" codified:display="Repeal"/>
+    <codify:repeal path="5.03.160" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.03.160"/>
   </section>
   <section>
     <num>2</num>
@@ -59,7 +59,7 @@
     <text class="center">
       <strong>CHAPTER 5.12, TAX RETURN FILING – ISSUANCE OF CERTIFICATE</strong>
     </text>
-    <codify:repeal path="5.12.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.12.050" codified:citation="Section 5.12.050" codified:display="Repeal"/>
+    <codify:repeal path="5.12.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.12.050"/>
   </section>
   <section>
     <num>3</num>
@@ -75,7 +75,7 @@
         <num>5.15</num>
         <heading>PERMITS FOR CERTAIN BUSINESSES</heading>
         <section>
-          <codify:replace path="5.15.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.15.010" codified:citation="Section 5.15.010" codified:display="Amend"/>
+          <codify:replace path="5.15.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.15.010"/>
           <num>5.15.010</num>
           <heading>Permit Required - Application.</heading>
           <para>
@@ -258,7 +258,7 @@
         <num>5.24</num>
         <heading>PERMITS FOR CERTAIN BUSINESSES</heading>
         <section>
-          <codify:replace path="5.24.240" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.24.240" codified:citation="Section 5.24.240" codified:display="Amend"/>
+          <codify:replace path="5.24.240" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.24.240"/>
           <num>5.24.240</num>
           <heading>Vendor - Street.</heading>
           <text>Every person conducting the business of street vendor shall pay a business tax of ten dollars per day.</text>
@@ -277,7 +277,7 @@
         <num>13.20</num>
         <heading>PARK REGULATIONS</heading>
         <section>
-          <codify:replace path="13.20.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.20.010" codified:citation="Section 13.20.010" codified:display="Amend"/>
+          <codify:replace path="13.20.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.20.010"/>
           <num>13.20.010</num>
           <heading>Prohibited Conduct.</heading>
           <text>The following acts and uses are prohibited in park properties and facilities.</text>
@@ -359,7 +359,7 @@
         <num>17.08</num>
         <heading>OBSTRUCTIONS - LITTER</heading>
         <section>
-          <codify:replace path="17.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.020" codified:citation="Section 17.08.020" codified:display="Amend"/>
+          <codify:replace path="17.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.020"/>
           <num>17.08.020</num>
           <heading>Placing Certain Objects in the Public Right-of-Way Prohibited.</heading>
           <text>No person shall place or cause to be placed, anywhere upon any public way, right-of-way, street, or sidewalk, and no person owning, occupying, or having the control of any premises shall suffer to remain in front thereof, upon any sidewalk, in the public right-of-way, of the half of the street or way next to such premises any appliances, furniture, bench, inoperable vehicles, boats, machinery, foods, merchandise, implement box, debris box, mailbox, or other object, which shall be an obstruction for more than one hour at a time.</text>
@@ -423,7 +423,7 @@
     <text class="center">
       <strong>CHAPTER 17.08, OBSTRUCTIONS – LITTER</strong>
     </text>
-    <codify:repeal path="17.08.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.120" codified:citation="Section 17.08.120" codified:display="Repeal"/>
+    <codify:repeal path="17.08.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.120"/>
   </section>
   <section>
     <num>8</num>
