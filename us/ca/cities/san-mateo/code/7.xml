@@ -3529,17 +3529,58 @@
     </section>
     <section>
       <num>7.38.432</num>
-      <heading>PRIVATE SEWER LATERALS.</heading>
+      <heading>Private Sewer Laterals</heading>
       <para>
         <num>(a)</num>
-        <text>Sewer Lateral Responsibility for Repair, Replacement and Maintenance. The owner of the property(ies) serviced shall be responsible for any portion of the private sewer lateral extending from a building to the public sewer main, including the wye connection which joins the private sewer lateral to the public sewer main. Any repairs, replacement or maintenance, such as the clearing of pipes using common industry hydro or mechanical cleaning tools, will not be provided by the City on private sewer laterals or in private sewer systems. Responsibility for such repairs, replacement and maintenance is that of the owner of the property(ies) serviced by the lateral.</text>
+        <text>Responsibility for repair, replacement and maintenance of sewer lateral. The owner of the property(ies) serviced shall be responsible for any portion of the private sewer lateral extending from a building to the public sewer main, including the wye connection which joins the private sewer lateral to the public sewer main. Any repairs, replacement or maintenance, such as the clearing of pipes using common industry hydro or mechanical cleaning tools, will not be provided by the City on private sewer laterals or in private sewer systems. Responsibility for such repairs, replacement and maintenance is that of the owner of the property(ies) serviced by the lateral.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Mandatory Installation of Cleanout. When installing or replacing a sewer lateral connection from a building to the public main sewer, if not already present, the property owner shall install a cleanout near the property structure in accordance with the requirements of the Uniform Building Code, the California Plumbing Code, and any other applicable regulations adopted by the City, City standards, or plans and specifications approved by the City Engineer.</text>
+        <text>Mandatory installation of cleanout. When installing or replacing a sewer lateral connection from a building to the public main sewer, if not already present, the property owner shall install a cleanout near the property structure in accordance with the requirements of the Uniform Building Code, the California Plumbing Code, and any other applicable regulations adopted by the City, City standards, or plans and specifications approved by the City Engineer.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Sewer lateral inspections. The owner(s) of the property served by a private sewer lateral shall be responsible for inspecting, testing, the lateral as required by this subsection, and providing the results to the City. The Public Works Director shall establish standards and regulations for the manner and scope of sewer lateral inspections.</text>
+        <para>
+          <num>(1)</num>
+          <text>When required.</text>
+          <para>
+            <num>(A)</num>
+            <text>Upon the sale of real property served by a private sewer lateral.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Prior to issuance of a building permit where the cost of the improvements for an addition or alteration/remodel project exceeds such amount as established by resolution of the City Council.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>For commercial or multifamily residential buildings, upon the occurrence of a sewer lateral backup or blockage resulting in a sanitary sewer overflow.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Upon a change in sewer customer class, as defined by <cite path="3.54.020">section 3.54.020</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exemptions. No inspection and testing of a sewer lateral shall be required if:</text>
+          <para>
+            <num>(A)</num>
+            <text>The sewer lateral has been inspected within the 5 years immediately preceding one of the events listed above, and the results of such inspection showed that either no repairs were required, or only partial repairs were required, and those repairs were in fact completed; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The sewer lateral has been completely replaced within the 25 years, as evidenced by a plumbing permit issued by the City; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Upon other exemption approved by the Director of Public Works.</text>
+          </para>
+        </para>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-8" path="§3" type="History"/>
+        <annotation app="2020-04-04" doc="City of San Mateo, Cal., Ord. No. 2020-1" eff="2020-04-04" path="§1" type="History"/>
       </annotations>
     </section>
     <section>

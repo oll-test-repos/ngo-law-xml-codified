@@ -41,7 +41,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.38.432">Section 7.38.432</cite> Private Sewer Laterals is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.38.432" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432" codified:citation="Section 7.38.432" codified:display="Amend"/>
+        <codify:replace path="7.38.432" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432"/>
         <num>7.38.432</num>
         <heading>Private Sewer Laterals</heading>
         <para>
