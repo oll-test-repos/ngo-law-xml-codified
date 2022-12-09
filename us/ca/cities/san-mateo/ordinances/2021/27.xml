@@ -51,7 +51,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.35">Chapter 7.35 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7">Title 7</cite> as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="7" after="7.33" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35" codified:citation="Chapter 7.35" codified:display="New">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="7" after="7.33" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35">
       <container>
         <prefix>Chapter</prefix>
         <num>7.35</num>
@@ -60,13 +60,13 @@
     </codify:insert>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.010" codified:citation="Section 7.35.010" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.010"/>
         <num>7.35.010</num>
         <heading>Title</heading>
         <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction Ordinance" and may be so cited and commonly referred to in <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> as the "Ordinance."</text>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.020" codified:citation="Section 7.35.020" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.020"/>
         <num>7.35.020</num>
         <heading>Purpose and Findings</heading>
         <text>The City finds and declares:</text>
@@ -104,7 +104,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.030" codified:citation="Section 7.35.030" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.030"/>
         <num>7.35.030</num>
         <heading>Definitions</heading>
         <para>
@@ -557,7 +557,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.040" codified:citation="Section 7.35.040" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.040"/>
         <num>7.35.040</num>
         <heading>Requirements for Single-Family Generators</heading>
         <text>Single-Family Organic Waste Generators shall comply with the following requirements. In addition to these requirements, Single-Family generators may also self-haul pursuant to the Self-Hauler requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Section 7.35.100</cite> of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
@@ -575,7 +575,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.050" codified:citation="Section 7.35.050" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.050"/>
         <num>7.35.050</num>
         <heading>Requirements for Commercial Businesses</heading>
         <text>Generators that are Commercial Businesses, including Multi-Family Residential Dwellings, shall:</text>
@@ -657,7 +657,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.060" codified:citation="Section 7.35.060" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.060"/>
         <num>7.35.060</num>
         <heading>Waivers for Generators</heading>
         <para>
@@ -707,7 +707,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.070" codified:citation="Section 7.35.070" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.070"/>
         <num>7.35.070</num>
         <heading>Requirements for Tier-One and Tier-Two Commercial Edible Food Generators</heading>
         <para>
@@ -804,7 +804,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.080" codified:citation="Section 7.35.080" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.080"/>
         <num>7.35.080</num>
         <heading>Requirements for Food Recovery Organizations and Services</heading>
         <para>
@@ -989,7 +989,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.090" codified:citation="Section 7.35.090" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.090"/>
         <num>7.35.090</num>
         <heading>Requirements for Haulers and Facility Operators</heading>
         <para>
@@ -1032,7 +1032,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.100" codified:citation="Section 7.35.100" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.100"/>
         <num>7.35.100</num>
         <heading>Self-Hauler Requirements</heading>
         <para>
@@ -1073,7 +1073,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.110" codified:citation="Section 7.35.110" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.110"/>
         <num>7.35.110</num>
         <heading>Compliance with CALGreen Recycling Requirements</heading>
         <para>
@@ -1098,7 +1098,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.120" codified:citation="Section 7.35.120" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.120"/>
         <num>7.35.120</num>
         <heading>Inspections and Investigations</heading>
         <para>
@@ -1131,7 +1131,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.130" codified:citation="Section 7.35.130" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.130"/>
         <num>7.35.130</num>
         <heading>Enforcement</heading>
         <para>
@@ -1236,7 +1236,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.140" codified:citation="Section 7.35.140" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.140"/>
         <num>7.35.140</num>
         <heading>Effective Date</heading>
         <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be effective commencing on January 1, 2022.</text>

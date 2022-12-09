@@ -1348,7 +1348,7 @@
       <num>8.24.010</num>
       <heading>PERMIT—REQUIRED—CONTENTS.</heading>
       <text>No person shall construct any building or premises to be used as a stable for any horse, or mule, or cow, or any number thereof, without first having obtained a special permit therefor from the board of zoning adjustments, specifying the name of the permittee, the location of building or premises to be used as such stable, and the number of animals intended to be kept therein.</text>
-      <text>Stables shall be constructed in compliance with the Uniform Building Code and related technical codes of Chapter 23 of this code. In addition, stables shall conform to the following requirements:</text>
+      <text>Stables shall be constructed in compliance with the Building Code and related technical codes of Chapter 23 of this code. In addition, stables shall conform to the following requirements:</text>
       <para>
         <num>(1)</num>
         <text>The stable floor shall consist of a six-inch rock base on which is compacted not less than six inches of clay or other approved comparable systems.</text>
@@ -1371,6 +1371,7 @@
       <annotations>
         <annotation type="History">prior code § 109.02</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-1" path="§6" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>

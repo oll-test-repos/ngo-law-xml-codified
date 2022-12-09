@@ -43,14 +43,14 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.04.140">Section 27.04.140 of the San Mateo Municipal Code</cite> is repealed.</text>
-    <codify:repeal doc="City of San Mateo, Cal., Code" path="27.04.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.140" codified:citation="Section 27.04.140" codified:display="Repeal"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="27.04.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.140"/>
   </section>
   <section>
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.04.200">Section 27.04.200 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.200" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.200" codified:citation="Section 27.04.200" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.200" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.200"/>
         <num>27.04.200</num>
         <heading>Floor Area.</heading>
         <para>
@@ -235,7 +235,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.64.390">Section 27.64.390 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.64.390" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.390" codified:citation="Section 27.64.390" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.64.390" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.390"/>
         <num>27.64.390</num>
         <heading>Schedule of Loading Requirements.</heading>
         <text>All planning applications shall include a description of the means by which loading activities for the intended use are to be accommodated. For the uses listed in the following table, off-street loading berths shall be provided on the basis of number of residential units or gross floor area of building or portions thereof devoted to such uses in the amounts shown herein. Off-street loading berths as prescribed below shall be accessible from a public alley, driveway easement, or from an adjacent off-street parking area. The requirements for off-street loading berths may be modified by one of the following means:</text>
@@ -438,7 +438,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.020">Section 27.71.020 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.020" codified:citation="Section 27.71.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.020"/>
         <num>27.71.020</num>
         <heading>Scope.</heading>
         <para>
@@ -453,7 +453,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.040">Section 27.71.040 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.040" codified:citation="Section 27.71.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.040"/>
         <num>27.71.040</num>
         <heading>Definitions.</heading>
         <text>The following definitions shall apply to <cite doc="City of San Mateo, Cal., Code" path="27.71">this chapter</cite>:</text>
@@ -517,7 +517,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.070">Section 27.71.070 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.070" codified:citation="Section 27.71.070" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.070"/>
         <num>27.71.070</num>
         <heading>Submittals Required for a Planning Application.</heading>
         <para>
@@ -592,7 +592,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.080">Section 27.71.080 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.080" codified:citation="Section 27.71.080" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.080"/>
         <num>27.71.080</num>
         <heading>Submittals Required for a Building Permit Application.</heading>
         <para>
@@ -631,7 +631,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.110">Section 27.71.110 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.110" codified:citation="Section 27.71.110" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.110"/>
         <num>27.71.110</num>
         <heading>Plant Coverage and Tree Sizes.</heading>
         <para>
@@ -670,7 +670,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.120">Section 27.71.120 of the San Mateo Municipal Code</cite> is amended as follows:'</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.120" codified:citation="Section 27.71.120" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.120"/>
         <num>27.71.120</num>
         <heading>Street Trees.</heading>
         <para>
@@ -717,7 +717,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.71.150">Section 27.71.150 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.150" codified:citation="Section 27.71.150" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.150" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.71.150"/>
         <num>27.71.150</num>
         <heading>Preservation of Existing Trees.</heading>
         <para>
@@ -852,7 +852,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.78.020">Section 27.78.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.78.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.78.020" codified:citation="Section 27.78.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.78.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.78.020"/>
         <num>27.78.020</num>
         <heading>Conditions for Granting.</heading>
         <para>
@@ -919,7 +919,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="17.24.020">Section 17.24.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="17.24.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.24.020" codified:citation="Section 17.24.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="17.24.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.24.020"/>
         <num>17.24.020</num>
         <heading>Definitions.</heading>
         <text>For the purpose of <cite doc="City of San Mateo, Cal., Code" path="17.24">this chapter</cite>, the following words and phrases shall have the meanings set forth below. Unless in direct conflict with terms defined herein, other words and phrases shall be interpreted as defined in the <cite doc="Cal. Sts. &amp; High. Code">Streets and Highways Code</cite>:</text>
@@ -966,7 +966,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.40.020">Section 23.40.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.020" codified:citation="Section 23.40.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.020"/>
         <num>23.40.020</num>
         <heading>Definitions.</heading>
         <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.40">this Chapter</cite>, the following terms are defined as set forth below:</text>
@@ -1106,7 +1106,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.40.040">Section 23.40.040 of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.040" codified:citation="Section 23.40.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.040"/>
         <num>23.40.040</num>
         <heading>Procedures.</heading>
         <text>This Section contains the provisions for the 2 phases of the site development approval and permitting process. Phase I consists of the site development planning application, which is processed through the Planning Division. Phase II provides for obtaining the site development permit from the Public Works Department following approval of the site development planning application.</text>
@@ -1502,62 +1502,62 @@
   <section codify:doc="City of San Mateo, Cal., Code">
     <num>16</num>
     <text>Throughout the Municipal Code, replace references to "Uniform Building Code (UBC)" with "Building Code."</text>
-    <codify:find-replace path="7.38.432" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432" codified:citation="Section 7.38.432" codified:display="Amend"/>
-    <codify:find-replace path="8.24.010" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.24.010" codified:citation="Section 8.24.010" codified:display="Amend"/>
-    <codify:find-replace path="26.65.060" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.060" codified:citation="Section 26.65.060" codified:display="Amend"/>
-    <codify:find-replace path="27.04.057" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.057" codified:citation="Section 27.04.057" codified:display="Amend"/>
-    <codify:find-replace path="27.04.144" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.144" codified:citation="Section 27.04.144" codified:display="Amend"/>
-    <codify:find-replace path="27.17.020" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.17.020" codified:citation="Section 27.17.020" codified:display="Amend"/>
-    <codify:find-replace path="27.17.060" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.17.060" codified:citation="Section 27.17.060" codified:display="Amend"/>
-    <codify:find-replace path="27.64.165" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.165" codified:citation="Section 27.64.165" codified:display="Amend"/>
+    <codify:find-replace path="7.38.432" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432"/>
+    <codify:find-replace path="8.24.010" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.24.010"/>
+    <codify:find-replace path="26.65.060" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.060"/>
+    <codify:find-replace path="27.04.057" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.057"/>
+    <codify:find-replace path="27.04.144" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.144"/>
+    <codify:find-replace path="27.17.020" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.17.020"/>
+    <codify:find-replace path="27.17.060" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.17.060"/>
+    <codify:find-replace path="27.64.165" find="Uniform Building Code" replace="Building Code" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.165"/>
   </section>
   <section codify:doc="City of San Mateo, Cal., Code">
     <num>17</num>
     <text>Throughout the Municipal Code, replace references to "City Engineer" with "Director of Public Works."</text>
-    <codify:find-replace path="2.48.010" find="City Engineer" replace="director of public works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.48.010" codified:citation="Section 2.48.010" codified:display="Amend"/>
-    <codify:find-replace path="7.38.432" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432" codified:citation="Section 7.38.432" codified:display="Amend"/>
-    <codify:find-replace path="13.25.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.25.080" codified:citation="Section 13.25.080" codified:display="Amend"/>
-    <codify:find-replace path="23.40.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.010" codified:citation="Section 23.40.010" codified:display="Amend"/>
-    <codify:find-replace path="23.40.030" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.030" codified:citation="Section 23.40.030" codified:display="Amend"/>
-    <codify:find-replace path="23.40.050" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.050" codified:citation="Section 23.40.050" codified:display="Amend"/>
-    <codify:find-replace path="25.04.030" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.030" codified:citation="Section 25.04.030" codified:display="Amend"/>
-    <codify:find-replace path="26.04.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.04.090" codified:citation="Section 26.04.090" codified:display="Amend"/>
-    <codify:find-replace path="26.16.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.16.010" codified:citation="Section 26.16.010" codified:display="Amend"/>
-    <codify:find-replace path="26.16.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.16.020" codified:citation="Section 26.16.020" codified:display="Amend"/>
-    <codify:find-replace path="26.20.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.20.080" codified:citation="Section 26.20.080" codified:display="Amend"/>
-    <codify:find-replace path="26.28.050" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.050" codified:citation="Section 26.28.050" codified:display="Amend"/>
-    <codify:find-replace path="26.28.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.070" codified:citation="Section 26.28.070" codified:display="Amend"/>
-    <codify:find-replace path="26.28.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.080" codified:citation="Section 26.28.080" codified:display="Amend"/>
-    <codify:find-replace path="26.48.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.010" codified:citation="Section 26.48.010" codified:display="Amend"/>
-    <codify:find-replace path="26.48.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.020" codified:citation="Section 26.48.020" codified:display="Amend"/>
-    <codify:find-replace path="26.48.100" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.100" codified:citation="Section 26.48.100" codified:display="Amend"/>
-    <codify:find-replace path="26.52.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.010" codified:citation="Section 26.52.010" codified:display="Amend"/>
-    <codify:find-replace path="26.52.060" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.060" codified:citation="Section 26.52.060" codified:display="Amend"/>
-    <codify:find-replace path="26.52.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.070" codified:citation="Section 26.52.070" codified:display="Amend"/>
-    <codify:find-replace path="26.52.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.080" codified:citation="Section 26.52.080" codified:display="Amend"/>
-    <codify:find-replace path="26.52.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.090" codified:citation="Section 26.52.090" codified:display="Amend"/>
-    <codify:find-replace path="26.52.100" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.100" codified:citation="Section 26.52.100" codified:display="Amend"/>
-    <codify:find-replace path="26.56.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.010" codified:citation="Section 26.56.010" codified:display="Amend"/>
-    <codify:find-replace path="26.56.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.070" codified:citation="Section 26.56.070" codified:display="Amend"/>
-    <codify:find-replace path="26.56.085" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.085" codified:citation="Section 26.56.085" codified:display="Amend"/>
-    <codify:find-replace path="26.56.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.090" codified:citation="Section 26.56.090" codified:display="Amend"/>
-    <codify:find-replace path="26.56.120" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.120" codified:citation="Section 26.56.120" codified:display="Amend"/>
-    <codify:find-replace path="26.56.125" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.125" codified:citation="Section 26.56.125" codified:display="Amend"/>
-    <codify:find-replace path="26.56.130" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.130" codified:citation="Section 26.56.130" codified:display="Amend"/>
-    <codify:find-replace path="26.56.140" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.140" codified:citation="Section 26.56.140" codified:display="Amend"/>
-    <codify:find-replace path="26.56.150" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.150" codified:citation="Section 26.56.150" codified:display="Amend"/>
-    <codify:find-replace path="26.57.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.57.010" codified:citation="Section 26.57.010" codified:display="Amend"/>
-    <codify:find-replace path="26.58.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.58.010" codified:citation="Section 26.58.010" codified:display="Amend"/>
-    <codify:find-replace path="26.60.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.010" codified:citation="Section 26.60.010" codified:display="Amend"/>
-    <codify:find-replace path="26.60.040" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.040" codified:citation="Section 26.60.040" codified:display="Amend"/>
-    <codify:find-replace path="26.65.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.020" codified:citation="Section 26.65.020" codified:display="Amend"/>
-    <codify:find-replace path="27.04.220" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.220" codified:citation="Section 27.04.220" codified:display="Amend"/>
-    <codify:find-replace path="27.44.040" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.44.040" codified:citation="Section 27.44.040" codified:display="Amend"/>
-    <codify:find-replace path="27.64.025" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.025" codified:citation="Section 27.64.025" codified:display="Amend"/>
-    <codify:find-replace path="27.64.125" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.125" codified:citation="Section 27.64.125" codified:display="Amend"/>
-    <codify:find-replace path="27.64.130" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.130" codified:citation="Section 27.64.130" codified:display="Amend"/>
-    <codify:find-replace path="27.64.267" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.267" codified:citation="Section 27.64.267" codified:display="Amend"/>
-    <codify:find-replace path="27.64.340" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.340" codified:citation="Section 27.64.340" codified:display="Amend"/>
+    <codify:find-replace path="2.48.010" find="City Engineer" replace="director of public works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.48.010"/>
+    <codify:find-replace path="7.38.432" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.432"/>
+    <codify:find-replace path="13.25.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.25.080"/>
+    <codify:find-replace path="23.40.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.010"/>
+    <codify:find-replace path="23.40.030" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.030"/>
+    <codify:find-replace path="23.40.050" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.40.050"/>
+    <codify:find-replace path="25.04.030" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.030"/>
+    <codify:find-replace path="26.04.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.04.090"/>
+    <codify:find-replace path="26.16.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.16.010"/>
+    <codify:find-replace path="26.16.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.16.020"/>
+    <codify:find-replace path="26.20.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.20.080"/>
+    <codify:find-replace path="26.28.050" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.050"/>
+    <codify:find-replace path="26.28.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.070"/>
+    <codify:find-replace path="26.28.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.28.080"/>
+    <codify:find-replace path="26.48.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.010"/>
+    <codify:find-replace path="26.48.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.020"/>
+    <codify:find-replace path="26.48.100" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.48.100"/>
+    <codify:find-replace path="26.52.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.010"/>
+    <codify:find-replace path="26.52.060" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.060"/>
+    <codify:find-replace path="26.52.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.070"/>
+    <codify:find-replace path="26.52.080" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.080"/>
+    <codify:find-replace path="26.52.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.090"/>
+    <codify:find-replace path="26.52.100" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.52.100"/>
+    <codify:find-replace path="26.56.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.010"/>
+    <codify:find-replace path="26.56.070" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.070"/>
+    <codify:find-replace path="26.56.085" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.085"/>
+    <codify:find-replace path="26.56.090" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.090"/>
+    <codify:find-replace path="26.56.120" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.120"/>
+    <codify:find-replace path="26.56.125" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.125"/>
+    <codify:find-replace path="26.56.130" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.130"/>
+    <codify:find-replace path="26.56.140" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.140"/>
+    <codify:find-replace path="26.56.150" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.56.150"/>
+    <codify:find-replace path="26.57.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.57.010"/>
+    <codify:find-replace path="26.58.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.58.010"/>
+    <codify:find-replace path="26.60.010" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.010"/>
+    <codify:find-replace path="26.60.040" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.60.040"/>
+    <codify:find-replace path="26.65.020" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.020"/>
+    <codify:find-replace path="27.04.220" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.220"/>
+    <codify:find-replace path="27.44.040" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.44.040"/>
+    <codify:find-replace path="27.64.025" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.025"/>
+    <codify:find-replace path="27.64.125" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.125"/>
+    <codify:find-replace path="27.64.130" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.130"/>
+    <codify:find-replace path="27.64.267" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.267"/>
+    <codify:find-replace path="27.64.340" find="City Engineer" replace="Director of Public Works" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.340"/>
   </section>
   <section>
     <num>18</num>

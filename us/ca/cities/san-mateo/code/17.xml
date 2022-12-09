@@ -1420,17 +1420,46 @@
     </section>
     <section>
       <num>17.24.020</num>
-      <heading>DEFINITIONS.</heading>
+      <heading>Definitions.</heading>
       <text>For the purpose of <cite path="17.24">this chapter</cite>, the following words and phrases shall have the meanings set forth below. Unless in direct conflict with terms defined herein, other words and phrases shall be interpreted as defined in the <cite doc="Cal. Sts. &amp; High. Code">Streets and Highways Code</cite>:</text>
-      <text><strong>Director of Public Works</strong>. Director of Public Works or his or her designee.</text>
-      <text><strong>Driveway Approach.</strong> The concrete structure located in the public right-of-way between the public street and a driveway or parking area on private property.</text>
-      <text><strong>Heritage Tree. </strong>A tree as defined in <cite path="13.52">Chapter 13.52</cite> as being a heritage tree subject to the provisions of that chapter.</text>
-      <text><strong>Planting strip</strong>. The area of the street lying between the curb line and the street line or edge of right-of-way along any street; including the sidewalk.</text>
-      <text><strong>Property Owner. </strong>Without limitation, the fee owner of real property and the person or persons in possession of the real property.</text>
-      <text><strong>Sidewalk</strong>. Any area provided for the use of pedestrians, including planting areas, driveway approaches or parking strips, between the public vehicular roadway and the edge of right-of-way bordering adjacent private property.</text>
-      <text><strong>Street Tree.</strong> Any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing within a street right-of-way; planted within a street right-of-way and/or designated planting easement.</text>
+      <para>
+        <num>(a)</num>
+        <heading>Director of Public Works.</heading>
+        <text>Director of Public Works or his or her designee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Driveway Approach.</heading>
+        <text>The concrete structure located in the public right-of-way between the public street and a driveway or parking area on private property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Protected Tree.</heading>
+        <text>A tree as defined in <cite path="13.40">Chapter 13.40</cite> as a Protected Tree.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Planting strip.</heading>
+        <text>The area of the street lying between the curb line and the street line or edge of right-of-way along any street; including the sidewalk.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Property Owner.</heading>
+        <text>Without limitation, the fee owner of real property and the person or persons in possession of the real property.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Sidewalk.</heading>
+        <text>Any area provided for the use of pedestrians, including planting areas, driveway approaches or parking strips, between the public vehicular roadway and the edge of right-of-way bordering adjacent private property.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Street Tree.</heading>
+        <text>Any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing within a street right-of-way; planted within a street right-of-way and/or designated planting easement.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§13" type="History"/>
       </annotations>
     </section>
     <section>

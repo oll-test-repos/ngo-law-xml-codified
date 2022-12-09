@@ -862,7 +862,7 @@
         <num>(b)</num>
         <text>Any person may appeal the decision of the Director of Public Works on a permit application under this Section by filing an appeal with the Sustainability and Infrastructure Commission within 10 days of the Director's notification of approval or denial. All appeals to the Commission shall be filed with the City Clerk and heard at the first regular meeting following receipt of said appeal and the decision of the Commission shall be final unless the appealing party files a subsequent appeal to the City Council in writing with the City Clerk within 10 days of the decision of the Commission. All appeals to the Council shall be final as to all matters.</text>
       </para>
-      <aftertext>All improvements permitted herein shall be maintained in a safe condition, be subject to inspection by the City, and may be required by the City Engineer to be physically identified by sign or number in a manner useful to City purposes. Any improvements which are found to be unsafe shall be declared a nuisance.</aftertext>
+      <aftertext>All improvements permitted herein shall be maintained in a safe condition, be subject to inspection by the City, and may be required by the Director of Public Works to be physically identified by sign or number in a manner useful to City purposes. Any improvements which are found to be unsafe shall be declared a nuisance.</aftertext>
       <aftertext>The Department of Public Works may, for reasons of health or safety, lapse of insurance, or City's need to use its property, cause the removal of any encroachment; provided however, that the permittee has been given notice in writing ten days prior to the intended removal. Such removal may be appealed through the same process described for encroachment permits. The cost of such removal shall be charged to the permittee.</aftertext>
       <annotations>
         <annotation type="History">prior code § 77.50</annotation>
@@ -873,6 +873,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1988-15" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>

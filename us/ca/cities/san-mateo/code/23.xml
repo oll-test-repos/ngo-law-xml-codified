@@ -2996,7 +2996,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Whenever <cite path="23.40">this chapter</cite> grants authority to the City Engineer, Building Official or Director of Parks and Recreation, that official may delegate such authority to a designee.</text>
+          <text>Whenever <cite path="23.40">this chapter</cite> grants authority to the Director of Public Works, Building Official or Director of Parks and Recreation, that official may delegate such authority to a designee.</text>
         </para>
       </para>
       <para>
@@ -3006,40 +3006,141 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.40.020</num>
-      <heading>DEFINITIONS.</heading>
-      <text>For the purposes of <cite path="23.40">this chapter</cite>, certain terms used herein are defined as set forth below:</text>
-      <text>"Best Management Practice (BMP)" means a technique or series of techniques which, when utilized in a designated manner, is proven to be effective in controlling construction-related runoff, erosion, and sedimentation;</text>
-      <text>"Certify" or "Certification" means the specific inspections and tests where required have been performed, and that such tests comply with the applicable requirements of State and Federal law and of <cite path="23.40">this chapter</cite>;</text>
-      <text>"Cubic Yards" means the amount of material in excavation and/or fill measured by the method of "average end areas";</text>
-      <text>"Erosion" means the action or process of wearing away of earth or soil by the action of water.</text>
-      <text>"Excavation" means any act by which organic matter, earth, sand, gravel, rock or any other similar material is cut into, dug, quarried, uncovered, removed, displaced, relocated or bulldozed, and includes the conditions resulting therefrom;</text>
-      <text>"Existing Grade" means the vertical location of the existing ground surface prior to excavation or filling;</text>
-      <text>"Filling" means any act by which earth, sand, gravel, rock or any other material is deposited, placed, replaced, pushed, dumped, pulled, transported or moved by man to a new location and shall include the conditions resulting therefrom;</text>
-      <text>"Final Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site after all other planned final structures and permanent improvements have been erected or installed;</text>
-      <text>"Grading" means excavation of fill or any combination thereof and includes the conditions resulting from any excavation or fill;</text>
-      <text>"Intensify" means the addition of one or more dwelling units in a residential district; or the physical extension of a structure or the expansion of a parking area in any commercial, executive, or industrial district;</text>
-      <text>"Interim Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site during the period in which pre-construction and construction-related grading occurs;</text>
-      <text>"Landscape Architect" means a person who is licensed by the State of California to practice landscape architecture;</text>
-      <text>"Major Vegetation" means live vegetation, consisting of tree growth with a trunk diameter of six inches or greater (circumference of eighteen and none-tenths inches) measured at forty-eight (48) inches above natural grade;</text>
-      <text>"Manual of Standards (Manual)" means a compilation of technical application standards and design specifications adopted by the City Engineer as being proven methods of controlling construction-related runoff, erosion, and sedimentation;</text>
-      <text>"Natural Slope" means the predominant slope or slopes of land in its natural condition disregarding minor surface humps or hollows;</text>
-      <text>"Natural Terrain" means the natural contour of a site before man-made development, or as the same exists prior to the undertaking of any new improvement;</text>
-      <text>"Parcel" means an area of land which has been legally subdivided;</text>
-      <text>"Permittee" means any person to whom a site development permit is issued'</text>
-      <text>"Removal" means cutting major vegetation to the ground, complete extraction, or filling by spraying, girdling, root cutting, etc.;</text>
-      <text>"Sediment" means material deposited by water.</text>
-      <text>"Site" means a lot or parcel of land, or a contiguous combination thereof, where grading is performed as a single unified operation;</text>
-      <text>"Site Development" means grading and/or removing major vegetation;</text>
-      <text>"Site Development Planning Application" means an application through the Planning Division for approval of a project requiring a site development permit;</text>
-      <text>"Site Development Permit" means a permit issued through the Public Works Department to proceed with site development.</text>
-      <text>"Slope" shall be defined as an inclined ground surface, expressed as a fraction of vertical over horizontal distance (rise over run) across any portion of a parcel. The term "gradient" shall be synonymous with the term "percent slope". For purposes of <cite path="23.40">this chapter</cite>, slope shall be measured across the predominant slope or slopes of land disregarding minor surface humps or hollows;</text>
-      <text>"Slope Height" means the vertical dimension between the high (top) and low (toe) points of a slope. The top and the toe of the slope shall be the points at which the slope intersects flat planes. A flat plane shall be considered any surface with a gradient of five (5%) percent or less. The overall height of separated slopes shall be added in calculating slope height unless the slopes are separated by a flat area at least forty (40) feet wide. The height of existing engineered retaining walls shall not be included in the calculation of slope height;</text>
-      <text>"Soils Engineer" means a registered engineer recognized by the State Board of Registration for Professional Engineers and Land Surveyors as authorized and competent to do the work required;</text>
-      <text>"Vacant" means land on which there are no structures or only structures which are secondary to the use or maintenance of the land itself.</text>
+      <heading>Definitions.</heading>
+      <text>For the purposes of <cite path="23.40">this Chapter</cite>, the following terms are defined as set forth below:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Best Management Practice (BMP)" means a technique or series of techniques which, when utilized in a designated manner, is proven to be effective in controlling construction-related runoff, erosion, and sedimentation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Certify" or "Certification" means the specific inspections and tests where required have been performed, and that such tests comply with the applicable requirements of State and Federal law and of <cite path="23.40">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Cubic Yards" means the amount of material in excavation and/or fill measured by the method of "average end areas".</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Erosion" means the action or process of wearing away of earth or soil by the action of water.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Excavation" means any act by which organic matter, earth, sand, gravel, rock or any other similar material is cut into, dug, quarried, uncovered, removed, displaced, relocated or bulldozed, and includes the conditions resulting therefrom.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Existing Grade" means the vertical location of the existing ground surface prior to excavation or filling.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Filling" means any act by which earth, sand, gravel, rock or any other material is deposited, placed, replaced, pushed, dumped, pulled, transported or moved by man to a new location and shall include the conditions resulting therefrom.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Final Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site after all other planned final structures and permanent improvements have been erected or installed.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Grading" means excavation <u>or</u> fill or any combination thereof and includes the conditions resulting from any excavation or fill.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Intensify" means the addition of one or more dwelling units in a residential district; or the physical extension of a structure or the expansion of a parking area in any commercial, executive, or industrial district.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Interim Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site during the period in which pre-construction and construction-related grading occurs.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Landscape Architect" means a person who is licensed by the State of California to practice landscape architecture.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Major Vegetation" means live vegetation, consisting of tree growth with a trunk diameter of six (6) inches or greater (circumference of eighteen and nine-tenths inches) measured at fifty-four (54) inches above natural grade.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Manual of Standards (Manual)" means a compilation of technical application standards and design specifications adopted by the Director of Public Works as being proven methods of controlling construction-related runoff, erosion, and sedimentation.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Natural Slope" means the predominant slope or slopes of land in its natural condition disregarding minor surface humps or hollows.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Natural Terrain" means the natural contour of a site before man-made development, or as the same exists prior to the undertaking of any new improvement.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Parcel" means an area of land which has been legally subdivided.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Permittee" means any person to whom a site development permit is issued.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Project Arborist" means an ISA Certified Arborist designated to evaluate the potential impacts of Construction Activity on Protected Trees, write specifications for tree preservation, oversee Construction Activity within the Dripline of Protected Trees and other necessary activities as determined by the City Arborist.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Protected Tree" means a Heritage Tree or a Street Tree (as defined in SMMC 13.40 Protected Trees), or a tree designated as protected as part of an approved Planning Application that is subject to <cite path="27.71">Chapter 27.71</cite>.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Removal" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>Cutting to the ground, complete extraction, or killing by spraying, girdling, or any other means; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Major Pruning not done in conformance with a Major Pruning Permit as defined in Section 13.40.</text>
+        </para>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Sediment" means material deposited by water.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Site" means a lot or parcel of land, or a contiguous combination thereof, where grading is performed as a single unified operation.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Site Development" means grading and/or removing major vegetation.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Site Development Planning Application" means an application through the Planning Division for approval of a project requiring a site development permit.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Site Development Permit" means a permit issued through the Public Works Department to proceed with site development.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Slope" shall be defined as an inclined ground surface, expressed as a fraction of vertical over horizontal distance (rise over run) across any portion of a parcel. The term "gradient" shall be synonymous with the term "percent slope". For purposes of <cite path="23.40">this chapter</cite>, slope shall be measured across the predominant slope or slopes of land disregarding minor surface humps or hollows.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Slope Height" means the vertical dimension between the high (top) and low (toe) points of a slope. The top and the toe of the slope shall be the points at which the slope intersects flat planes. A flat plane shall be considered any surface with a gradient of five (5%) percent or less. The overall height of separated slopes shall be added in calculating slope height unless the slopes are separated by a flat area at least forty (40) feet wide. The height of existing engineered retaining walls shall not be included in the calculation of slope height.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>"Soils Engineer" means a registered engineer recognized by the State Board of Registration for Professional Engineers and Land Surveyors as authorized and competent to do the work required.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"Vacant" means land on which there are no structures or only structures which are secondary to the use or maintenance of the land itself.</text>
+      </para>
       <annotations>
         <annotation type="History">prior code § 154.07</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1968-34" path="§1" type="History"/>
@@ -3047,6 +3148,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-3" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-4" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3069,7 +3171,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Grading, regardless of quantity, where, in the opinion of the Building Official and/or City Engineer, special physical conditions of the site or protection of the public safety requires application of <cite path="23.40">this chapter</cite>.</text>
+          <text>Grading, regardless of quantity, where, in the opinion of the Building Official and/or Director of Public Works, special physical conditions of the site or protection of the public safety requires application of <cite path="23.40">this chapter</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3156,7 +3258,7 @@
             <text>Single family additions and accessory structures located within slope setbacks or on slopes greater than 15 percent (unless governed by (B) below) provided:</text>
             <para>
               <num>(i)</num>
-              <text>A geotechnical report containing applicable foundation, grading and drainage recommendations may be required at the discretion of the City Engineer or Building Official. Factors to be considered in determining whether a geotechnical report is required include, but are not limited to, slope gradient, potential affect upon adjacent properties, construction method and subsurface geology;</text>
+              <text>A geotechnical report containing applicable foundation, grading and drainage recommendations may be required at the discretion of the Director of Public Works or Building Official. Factors to be considered in determining whether a geotechnical report is required include, but are not limited to, slope gradient, potential affect upon adjacent properties, construction method and subsurface geology;</text>
             </para>
           </para>
           <para>
@@ -3172,11 +3274,12 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.40.040</num>
-      <heading>PROCEDURES.</heading>
+      <heading>Procedures.</heading>
       <text>This Section contains the provisions for the 2 phases of the site development approval and permitting process. Phase I consists of the site development planning application, which is processed through the Planning Division. Phase II provides for obtaining the site development permit from the Public Works Department following approval of the site development planning application.</text>
       <para>
         <num>(a)</num>
@@ -3188,7 +3291,10 @@
             <table>
               <thead>
                 <tr>
-                  <th colspan="2">SITE DEVELOPMENT PLANNING APPLICATION APPROVAL AUTHORITY</th>
+                  <th colspan="2">
+                    <p>SITE DEVELOPMENT PLANNING APPLICATION <u>(SDPA)</u></p>
+                    <p>APPROVAL AUTHORITY</p>
+                  </th>
                 </tr>
                 <tr>
                   <th>Zoning Administrator</th>
@@ -3197,19 +3303,16 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>
-                    <ul>
-                      <li>Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes.</li>
-                      <li>Removal of major vegetation from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used.</li>
-                    </ul>
-                  </td>
-                  <td>
-                    <ul>
-                      <li>Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point.</li>
-                      <li>Site development occurring on slopes greater than 25% or within slope setbacks.</li>
-                      <li>Removal of major vegetation from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided.</li>
-                    </ul>
-                  </td>
+                  <td>Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes <u>would require a Site Development Planning Application for Grading.</u></td>
+                  <td>Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point <u>would require a Site Development Planning Application for Grading</u>.</td>
+                </tr>
+                <tr>
+                  <td>Removal of major vegetation Protected Trees from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used <u>would require a Site Development Planning Application for Tree Removal.</u></td>
+                  <td>Site development occurring on slopes greater than 25% or within slope setbacks <u>would require a Site Development Planning Application for Grading</u>.</td>
+                </tr>
+                <tr>
+                  <td/>
+                  <td>Removal of major vegetation Protected Trees from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided <u>would require a Site Development Planning Application for Tree Removal</u>.</td>
                 </tr>
               </tbody>
             </table>
@@ -3217,7 +3320,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Basic Submittals. Each site development planning application shall be accompanied by a plot plan signed by a civil engineer, showing the following, however, at the time of application, the City Engineer may modify these requirements based upon special site conditions or unique circumstances that clearly indicate that the required submittal is unnecessary. During the review process, the City may require additional information necessary to make a final determination.</text>
+          <text>Basic Submittals. Each site development planning application shall be accompanied by a plot plan signed by a civil engineer, showing the following, however, at the time of application, the <u>Director of Public Works</u> may modify these requirements based upon special site conditions or unique circumstances that clearly indicate that the required submittal is unnecessary. During the review process, the City may require additional information necessary to make a final determination.</text>
           <para>
             <num>(A)</num>
             <text>Location of existing and proposed buildings or structures on the property;</text>
@@ -3244,7 +3347,7 @@
           </para>
           <para>
             <num>(G)</num>
-            <text>The location of all major vegetation and heritage trees as defined by <cite path="23.40.070" proof="needed">Section 23.40.070</cite> and <cite path="10.52.020" proof="needed">Section 10.52.020</cite>, respectively, together with an indication of those which must be removed;</text>
+            <text>The location of all Protected Trees as defined in <cite path="13.40">Chapter 13.40</cite> and <cite path="23.40">Chapter 23.40</cite> together with an indication of those which must be removed;</text>
           </para>
           <para>
             <num>(H)</num>
@@ -3253,7 +3356,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Supplemental Submittals. The following information may be required for any site development planning application, or as a condition of approval of said application, if the City Engineer, after preliminary review of the application, finds any or all necessary to accomplish the purpose of <cite path="23.40">this chapter</cite>.</text>
+          <text>Supplemental Submittals. The following information may be required for any site development planning application, or as a condition of approval of said application, if the <u>Director of Public Works</u>, after preliminary review of the application, finds any or all necessary to accomplish the purpose of <cite path="23.40">this chapter</cite>.</text>
           <para>
             <num>(A)</num>
             <text>A statement of the estimated quantity of material proposed to be excavated and/or the amount of fill in cubic yards;</text>
@@ -3275,11 +3378,11 @@
             <text>Interim Erosion and Sediment Control Plan (Interim Plan). All of the following information shall be provided with respect to conditions existing on the site during grading activities or soil storage:</text>
             <para>
               <num>(i)</num>
-              <text>Maximum surface runoff from the site shall be calculated using the method approved by the City Engineer and maintained in the Manual, or any other method proven to the City Engineer to be as or more accurate;</text>
+              <text>Maximum surface runoff from the site shall be calculated using the method approved by the <u>Director of Public Works</u> and maintained in the Manual, or any other method proven to the <u>Director of Public Works</u> to be as or more accurate;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>Sediment yield shall be calculated suing the method approved by the City Engineer and maintained in the Manual, or any other method proven to the City Engineer to be as or more accurate;</text>
+              <text>Sediment yield shall be calculated suing the method approved by the <u>Director of Public Works</u> and maintained in the Manual, or any other method proven to the <u>Director of Public Works</u> to be as or more accurate;</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -3328,30 +3431,46 @@
           </para>
           <para>
             <num>(H)</num>
-            <text>Plans and specifications showing functional planting for the protection of the public safety and, if appropriate, information relating to landscaping of adjacent or surrounding areas affected by the proposed development. Such plans and specifications shall be prepared and signed by a landscape architect. These plans shall show:</text>
+            <text>Plans and specifications showing functional planting for the protection of the public safety and, if appropriate, information relating to landscaping of adjacent or surrounding areas affected by the proposed development. Such plans and specifications shall be prepared and signed by a landscape architect<u>, except where specified below</u>. These plans shall show:</text>
             <para>
               <num>(i)</num>
               <text>Distribution of plant material; location, quantity and key number of each species of plant in each group; outline of all lawn areas, areas to be seeded, sodded or sprigged; existing trees, if any, to be preserved, transplanted or removed; kind, size, and work involved as related to slope control and/or physical environment;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>List of plant material giving standard botanical plant names and key number for each variety for reference to plan, and in addition, the size, quality or other pertinent description common to the trade;</text>
+              <text>A Tree Evaluation Schedule of existing trees as defined in <cite path="27.71">Chapter 27.71</cite> prepared and signed by an ISA Certified Arborist (Project Arborist), identifying trees to be preserved, transplanted or removed;</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>A specification describing the methods for planting the areas to be landscaped with special emphasis on: (a) soil preparation, fertilization, plant material and methods of planting, and (b) initial maintenance of the plant material and slopes until a specified percentage of plant coverage is established uniformly on the cut and fill slopes;</text>
+              <text>A Tree Protection Plan prepared and signed by the Project Arborist specifying tree protection measures in accordance with <cite path="13.40">Chapter 13.40</cite>;</text>
             </para>
             <para>
               <num>(iv)</num>
-              <text>A statement by landscape architect regarding: (a) The length of time after planting, with the specified maintenance normally required to produce the specified percentage of plant coverage on the slopes in the slope control areas, and (b) the additional length of time, without any special maintenance, normally required to produce a coverage of permanent planting which will control erosion;</text>
+              <text>The kind, size, and work involved as related to slope control and/or physical environment;</text>
             </para>
             <para>
               <num>(v)</num>
-              <text>Details of all items and features pertaining to site preservation and improvements such as retaining walls, and tree wells, and details not shown on other plans accompanying the application;</text>
+              <text>List of plant material giving standard botanical plant names and key number for each variety for reference to plan, and in addition, the size, quality or other pertinent description common to the trade;</text>
             </para>
             <para>
               <num>(vi)</num>
-              <text>Such other and further details as may be specified and required by the City Engineer to carry out the purposes of <cite path="23.40">this chapter</cite>.</text>
+              <text>A Required Tree Planting Form specifying the mitigation for removal of existing trees in the form of tree planting and/or payment of in-lieu fees;</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>A specification describing the methods for planting the areas to be landscaped with special emphasis on: (a) soil preparation, fertilization, plant material and methods of planting, and (b) initial maintenance of the plant material and slopes until a specified percentage of plant coverage is established uniformly on the cut and fill slopes;</text>
+            </para>
+            <para>
+              <num>(viii)</num>
+              <text>A statement by landscape architect regarding: (a) The length of time after planting, with the specified maintenance normally required to produce the specified percentage of plant coverage on the slopes in the slope control areas, and (b) the additional length of time, without any special maintenance, normally required to produce a coverage of permanent planting which will control erosion;</text>
+            </para>
+            <para>
+              <num>(ix)</num>
+              <text>Details of all items and features pertaining to site preservation and improvements such as retaining walls, and tree wells, and details not shown on other plans accompanying the application;</text>
+            </para>
+            <para>
+              <num>(x)</num>
+              <text>Such other and further details as may be specified and required by the <u>Director of Public Works</u> to carry out the purposes of <cite path="23.40">this chapter</cite>.</text>
             </para>
           </para>
           <para>
@@ -3368,7 +3487,7 @@
           </para>
           <para>
             <num>(L)</num>
-            <text>Such further applicable information as the City Engineer may required in order to carry out the purposes of <cite path="23.40">this chapter</cite>.</text>
+            <text>Such further applicable information as the  <u>Director of Public Works</u> may required in order to carry out the purposes of <cite path="23.40">this chapter</cite>.</text>
           </para>
         </para>
         <para>
@@ -3412,7 +3531,7 @@
           </para>
           <para>
             <num>(J)</num>
-            <text>The report from the Director of Parks and Recreation with respect to heritage trees pursuant to <cite path="10.52.040" proof="needed">Section 10.52.040</cite>;</text>
+            <text>The report from the Project Arborist with respect to Protected Trees pursuant to Chapters <cite path="27.71">27.71</cite> and <cite path="13.40">13.40</cite>;</text>
           </para>
           <para>
             <num>(K)</num>
@@ -3433,16 +3552,16 @@
           <para>
             <num>(C)</num>
             <text>The granting of the exception will not be detrimental to the public welfare or injurious to other property in the vicinity of the subject property.</text>
+            <para>
+              <num>(i)</num>
+              <text>Planning Application Expiration. Every site development planning application shall expire as provided in <cite path="27.08.060">San Mateo Municipal Code Section 27.08.060</cite>—Approval Expiration (Zoning Code).</text>
+            </para>
           </para>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Planning Application Expiration. Every site development planning application shall expire as provided in <cite path="27.08.060">San Mateo Municipal Code Section 27.08.060</cite>—Approval Expiration (Zoning Code).</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Phase II—Site Development Permit. Subsequent to approval of a site development planning application but prior to site development, the applicant shall obtain a site development permit from the Public Works Department. Application for a site development permit shall be made by the owner of record or his or her authorized agent, and shall be accompanied by the required fees, deposits, and project submittals specified in any conditions of approval for the planning application or required by <cite path="23.40">this chapter</cite>.</text>
+        <text>Phase II—Site Development Permit. Subsequent to approval of a site development planning application but prior to site development, the applicant shall obtain a site development permit <u>for grading</u> from the Public Works Department <u>and a site development permit for tree removal from Community Development Department</u>. Application for a site development permit shall be made by the owner of record or his or her authorized agent, and shall be accompanied by the required fees, deposits, and project submittals specified in any conditions of approval for the planning application or required by <cite path="23.40">this chapter</cite>.</text>
         <para>
           <num>(1)</num>
           <text>Permit Issuance. Following approval of a site development planning application, a site development permit may be issued if:</text>
@@ -3461,11 +3580,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Approved Plans. The approved site development permit, including plans for grading work and/or major vegetation removal, shall be maintained at the site during the progress of the grading. In order to obtain the inspections required by <cite path="23.40">this chapter</cite> in accordance with the following schedule, the permittee shall notify the City Engineer and where applicable, the Director of Parks and Recreation at least two full working days before said inspection is to be made.</text>
+          <text>Approved Plans. The approved site development permit, including plans for grading work, as well as, the location of trees (existing on-site trees, Protected Trees and Street Trees), trees proposed to be removed, trees proposed to be protected, and tree protection measures shall be maintained at the site during the progress of the grading, excavation, building demolition, construction and/or other site work. In order to obtain the inspections required by <cite path="23.40">this Chapter</cite> in accordance with the following schedule, the permittee shall notify the Director of Public Works, Director of Parks and Recreation, and Director of Community Development Department (or their designees) at least two full working days before said inspection is to be made.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Inspections. The City Engineer, and where applicable, the Director of Parks and Recreation or the Building Official, shall make the following required inspections, as applicable, and shall either approve that portion of the work completed or shall notify the permittee, as provided in (4), below, wherein the same fails to comply with <cite path="23.40">this chapter</cite> or the terms of the permit granted. Where it is found by inspection that conditions are not substantially as stated or shown in the application for a site development permit, the City Engineer may stop further work until approval is obtained for a revised site development permit, conforming to the existing conditions.</text>
+          <text>Inspections. The <u>Director of Public Works</u>, and where applicable, the Director of Parks and Recreation or the Building Official <u>(or their designees)</u>, shall make the following required inspections, as applicable, and shall either approve that portion of the work completed or shall notify the permittee, as provided in (4), below, wherein the same fails to comply with <cite path="23.40">this chapter</cite> or the terms of the permit granted. Where it is found by inspection that conditions are not substantially as stated or shown in the application for a site development permit, the <u>Director of Public Works</u> may stop further work until approval is obtained for a revised site development permit, conforming to the existing conditions.</text>
           <para>
             <num>(A)</num>
             <text>Initial Inspection. Before commencement of grading operations, and after required construction stakes have been set;</text>
@@ -3489,22 +3608,22 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Inspection by Building Official. Structures requiring building permits shall be inspected by the Building Official in accordance with procedures established by this Code, provided, however, no building permit for such structures shall be issued until a site development permit for the building site has been issued or it has been determined that a site development permit is not required by <cite path="23.40">this chapter</cite>.</text>
+          <text>Inspection by Building Official. Structures requiring building permits shall be inspected by the Building Official, or their designee, in accordance with procedures established by this Code, provided, however, no building permit for such structures shall be issued until a site development permit for the building site has been issued or it has been determined that a site development permit is not required by <cite path="23.40">this chapter</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Site Development Permit Sign-Off. If, upon final inspection, it is found that the work authorized by the site development permit has been completed in accordance with the requirements of the permit and <cite path="23.40">this chapter</cite>, the City Engineer shall indicate that such work, has to the best of his or her knowledge, been satisfactorily performed.</text>
+          <text>Site Development Permit Sign-Off. If, upon final inspection, it is found that the work authorized by the site development permit has been completed in accordance with the requirements of the permit and <cite path="23.40">this chapter</cite>, the <u>Director of Public Works</u> shall indicate that such work, has to the best of his or her knowledge, been satisfactorily performed.</text>
         </para>
         <para>
           <num>(7)</num>
           <text>Permit Revocation.</text>
           <para>
             <num>(A)</num>
-            <text>Violations. No person shall construct, enlarge, alter, repair or maintain any grading, or cause the same to be done, contrary to or in violation of any provisions of <cite path="23.40">this chapter</cite>. The City Engineer, the Chief of Planning, Building Official, and/or the Director of Parks and Recreation are empowered to investigate and make reports to the Planning Commission on any violations of <cite path="23.40">this chapter</cite>. The Planning Commission, if it determines from the evidence presented that a violation exists, may recommend to the City Council that action be taken to seek compliance with <cite path="23.40">this chapter</cite>.</text>
+            <text>Violations. No person shall construct, enlarge, alter, repair or maintain any grading, or cause the same to be done, contrary to or in violation of any provisions of <cite path="23.40">this chapter</cite>. The  <u>Director of Public Works</u>, <u>Planning Manager</u>, Building Official, and/or the Director of Parks and Recreation are empowered to investigate and make reports to the Planning Commission on any violations of <cite path="23.40">this chapter</cite>. The Planning Commission, if it determines from the evidence presented that a violation exists, may recommend to the City Council that action be taken to seek compliance with <cite path="23.40">this chapter</cite>.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Authority. In the event any person holding a site development permit pursuant to <cite path="23.40">this chapter</cite> violates the terms of the permit, or conducts, carries on or permits to be conducted or carried on said site development in such a manner as materially or adversely to affect the health, welfare, or safety of persons residing or working in the neighborhood of the property of the permittee, or conducts or carries on or permits to be conducted or carried on said site development so that it is materially detrimental to the public welfare, or injurious to property, or improvements in the neighborhood, the City Engineer may order a temporary suspension, effective immediately upon notification, and the permittee shall show cause before the Planning Commission that the permit should not be permanently revoked.</text>
+            <text>Authority. In the event any person holding a site development permit pursuant to <cite path="23.40">this chapter</cite> violates the terms of the permit, or conducts, carries on or permits to be conducted or carried on said site development in such a manner as materially or adversely to affect the health, welfare, or safety of persons residing or working in the neighborhood of the property of the permittee, or conducts or carries on or permits to be conducted or carried on said site development so that it is materially detrimental to the public welfare, or injurious to property, or improvements in the neighborhood, the <u>Director of Public Works</u> may order a temporary suspension, effective immediately upon notification, and the permittee shall show cause before the Planning Commission that the permit should not be permanently revoked.</text>
           </para>
           <para>
             <num>(C)</num>
@@ -3515,8 +3634,12 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>The time when, and the place where, such hearing is to be held.(D) Hearing. The Planning Commission shall hold such hearing at the next regularly scheduled meeting at which all conditions of this Subsection can be met. At any such hearing, the permittee shall be given an opportunity to be heard, and he or she may call witnesses and present evidence on his or her behalf. Upon conclusion of such hearing the Planning Commission shall determine whether or not the permit shall be suspended, revoked or modified.</text>
+              <text>The time when, and the place where, such hearing is to be held.</text>
             </para>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Hearing. The Planning Commission shall hold such hearing at the next regularly scheduled meeting at which all conditions of this Subsection can be met. At any such hearing, the permittee shall be given an opportunity to be heard, and he or she may call witnesses and present evidence on his or her behalf. Upon conclusion of such hearing the Planning Commission shall determine whether or not the permit shall be suspended, revoked or modified.</text>
           </para>
         </para>
         <para>
@@ -3530,10 +3653,14 @@
             <num>(B)</num>
             <text>Consultant Fees. City officers administering <cite path="23.40">this chapter</cite> may engage consulting professional services to advise in the review of site development permit applications and may charge not to exceed 100 percent (100%) of the cost of such services to the applicant.</text>
           </para>
+          <para>
+            <num>(C)</num>
+            <text>Applicable fees for Landscape Unit (LU) value are subject to the Comprehensive Fee Schedule in effect at the time of issuance of the Site Development Permit for tree removal.</text>
+          </para>
         </para>
         <para>
           <num>(9)</num>
-          <text>Permit Expiration. Every site development permit shall expire by limitation and become null and void if the work authorized by such permit has not been commenced within one hundred eighty days, or is not completed within one year from date of issue unless the time is specified on the permit or as provided in <cite path="23.40.050|(k)|(2)">Section 23.40.050(k)(2)</cite>, except that the City Engineer may, if the permit holder presents satisfactory evidence that unusual difficulties have prevented work being started or completed within the specified time limits, grant a reasonable extension of time if written application is made before the expiration date of the permit.</text>
+          <text>Permit Expiration. Every site development permit shall expire by limitation and become null and void if the work authorized by such permit has not been commenced within one hundred eighty days, or is not completed within one year from date of issue unless the time is specified on the permit or as provided in <cite path="23.40.050|(k)|(2)">Section 23.40.050(k)(2)</cite>, except that the <u>Director of Public Works</u> may, if the permit holder presents satisfactory evidence that unusual difficulties have prevented work being started or completed within the specified time limits, grant a reasonable extension of time if written application is made before the expiration date of the permit.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -3547,6 +3674,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-3" type="History">Ord. 1992-3 §§ 6 &amp; 7, 1992</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§15" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3558,7 +3686,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Hours of Operation. All grading operations shall be restricted to weekdays between the hours of seven a.m. and seven p.m., unless the City Engineer finds evidence that an emergency exists which would imperil or inconvenience the public, in which case he or she may permit the work to proceed during such other hours as may be necessary.</text>
+        <text>Hours of Operation. All grading operations shall be restricted to weekdays between the hours of seven a.m. and seven p.m., unless the Director of Public Works finds evidence that an emergency exists which would imperil or inconvenience the public, in which case he or she may permit the work to proceed during such other hours as may be necessary.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3577,11 +3705,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Finished Cuts of Slopes. The exposed or finished cuts or slopes of any fill or excavation shall be smoothly graded and blended with existing contours by rounding off cut or fill edges and shall be screened with vegetation, and no such fill, slope, cut or inclined graded surface shall exceed a vertical height of thirty feet unless intercepting drains or terraces are provided. Such drains or terraces shall be permanently lined or protected with materials approved by the City Engineer and accumulating surface waters shall be conducted to an approved point of discharge. Any such terrace or intercepting drain shall be designed to prevent overflow which may cause erosion. All exposed slopes of any cut or fill subject to erosion shall be protected by approved planting, crib walls, walls and planting, terracing, or a combination thereof. The use of visible retaining walls shall be minimized, and where visible, shall be screened with vegetation. Graded surfaces exceeding an area of five thousand square feet shall be treated as provided in <cite path="23.40.050|(j)">Section 23.40.050(j)</cite>. The City Engineer may require that corrective measures be taken if he or she finds the material being cut or used for fill is unusually subject to erosion, or if other conditions affect the stability of the slopes.</text>
+          <text>Finished Cuts of Slopes. The exposed or finished cuts or slopes of any fill or excavation shall be smoothly graded and blended with existing contours by rounding off cut or fill edges and shall be screened with vegetation, and no such fill, slope, cut or inclined graded surface shall exceed a vertical height of thirty feet unless intercepting drains or terraces are provided. Such drains or terraces shall be permanently lined or protected with materials approved by the Director of Public Works and accumulating surface waters shall be conducted to an approved point of discharge. Any such terrace or intercepting drain shall be designed to prevent overflow which may cause erosion. All exposed slopes of any cut or fill subject to erosion shall be protected by approved planting, crib walls, walls and planting, terracing, or a combination thereof. The use of visible retaining walls shall be minimized, and where visible, shall be screened with vegetation. Graded surfaces exceeding an area of five thousand square feet shall be treated as provided in <cite path="23.40.050|(j)">Section 23.40.050(j)</cite>. The Director of Public Works may require that corrective measures be taken if he or she finds the material being cut or used for fill is unusually subject to erosion, or if other conditions affect the stability of the slopes.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Seasonal Grading. All grading shall be limited to the dry season (April 15 through October 15) unless the City Engineer determines adequate erosion control is provided. For commencement of grading during the wet season, the permittee shall demonstrate that grading is relatively minor and that erosion and sedimentation can be controlled. The City Engineer shall have the ability to grant or deny permission under this Section on the basis of weather forecasts, experience, and other pertinent factors.</text>
+          <text>Seasonal Grading. All grading shall be limited to the dry season (April 15 through October 15) unless the Director of Public Works determines adequate erosion control is provided. For commencement of grading during the wet season, the permittee shall demonstrate that grading is relatively minor and that erosion and sedimentation can be controlled. The Director of Public Works shall have the ability to grant or deny permission under this Section on the basis of weather forecasts, experience, and other pertinent factors.</text>
         </para>
       </para>
       <para>
@@ -3594,7 +3722,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Drainage. Adequate provision shall be made to prevent any surface waters from damaging the cut face of an excavation or any portion of a fill. All drainage ways and structures shall carry surface waters to the nearest street, storm drain or natural watercourse capable of receiving them without producing erosion as approved by the City Engineer as a safe place to deposit and receive such waters. Parcels shall not be graded so as to direct additional water, or to alter the existing pattern of drainage, onto adjacent properties. The City Engineer may require such drainage structures to be constructed, or installed, as are necessary to prevent erosion damage, or to prevent saturation of the fill or material behind cut slopes.</text>
+        <text>Drainage. Adequate provision shall be made to prevent any surface waters from damaging the cut face of an excavation or any portion of a fill. All drainage ways and structures shall carry surface waters to the nearest street, storm drain or natural watercourse capable of receiving them without producing erosion as approved by the Director of Public Works as a safe place to deposit and receive such waters. Parcels shall not be graded so as to direct additional water, or to alter the existing pattern of drainage, onto adjacent properties. The Director of Public Works may require such drainage structures to be constructed, or installed, as are necessary to prevent erosion damage, or to prevent saturation of the fill or material behind cut slopes.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -3622,31 +3750,32 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Backfilling. Any pipe trench or other trenching or excavation made in any slope of an excavated or filled site shall be backfilled to the level of the surrounding grade. Such backfill shall be compacted to the original density of the excavated materials, but in no case less than ninety (90%) percent of the maximum density achieved by an AASHO soil compaction test method, selected by the City Engineer. Suitable check drains to control erosion shall be installed as directed by the City Engineer.</text>
+        <text>Backfilling. Any pipe trench or other trenching or excavation made in any slope of an excavated or filled site shall be backfilled to the level of the surrounding grade. Such backfill shall be compacted to the original density of the excavated materials, but in no case less than ninety (90%) percent of the maximum density achieved by an AASHO soil compaction test method, selected by the Director of Public Works. Suitable check drains to control erosion shall be installed as directed by the Director of Public Works.</text>
       </para>
       <para>
         <num>(i)</num>
-        <text>Compaction of Fill. all fills intended to support buildings, structures, or where otherwise required to be compacted for stability of material, shall be compacted, inspected and tested in accordance with adopted specifications on file in the office of the City Engineer.</text>
+        <text>Compaction of Fill. all fills intended to support buildings, structures, or where otherwise required to be compacted for stability of material, shall be compacted, inspected and tested in accordance with adopted specifications on file in the office of the Director of Public Works.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Erosion Control—Landscaping. All cut and fill surfaces created by a grading process, agricultural processes excepted, shall be planted with a ground cover that is acceptable to a soils engineer and compatible with ground covers in general use in the area, and is one that will thrive with little or no maintenance once established. Topsoils are to be stockpiled during rough grading and used on cut and fill slopes to a depth sufficient to support the proposed plant materials in a manner acceptable to a soils engineer. On slopes likely to be extensively disturbed by later construction, an interim ground cover may be planted or emplaced to be supplemented by the permanent ground cover and/or shrubs and trees when the site is finally developed and landscaped. When slopes have been permitted too steep to support continuous ground cover, and in lieu thereof niches and ledges have been provided for planting, such slopes need not be planted with a continuous ground cover, but may instead be screened with vines and plantings. Cuts and fills along public roads may be required to be landscaped and graded so as to blend into the natural surroundings. All plant materials shall be satisfactory to the superintendent of parks and/or City Engineer.</text>
+        <text>Erosion Control—Landscaping. All cut and fill surfaces created by a grading process, agricultural processes excepted, shall be planted with a ground cover that is acceptable to a soils engineer and compatible with ground covers in general use in the area, and is one that will thrive with little or no maintenance once established. Topsoils are to be stockpiled during rough grading and used on cut and fill slopes to a depth sufficient to support the proposed plant materials in a manner acceptable to a soils engineer. On slopes likely to be extensively disturbed by later construction, an interim ground cover may be planted or emplaced to be supplemented by the permanent ground cover and/or shrubs and trees when the site is finally developed and landscaped. When slopes have been permitted too steep to support continuous ground cover, and in lieu thereof niches and ledges have been provided for planting, such slopes need not be planted with a continuous ground cover, but may instead be screened with vines and plantings. Cuts and fills along public roads may be required to be landscaped and graded so as to blend into the natural surroundings. All plant materials shall be satisfactory to the superintendent of parks and/or Director of Public Works.</text>
       </para>
       <para>
         <num>(k)</num>
         <text>Special Precautions.</text>
         <para>
           <num>(1)</num>
-          <text>If, at any stage of the grading, the City Engineer determines by inspection that the nature of the earth formation is such that further work as authorized by an existing permit is likely to imperil any property, public way, watercourse or drainage structure, he or she may require, as a condition to allowing the work to proceed, that such reasonable safety precautions be taken as he or she considers advisable to avoid likelihood of such peril. "Special precautions" may include, but shall not be limited to, specifying a flatter exposed slope, construction of additional drainage facilities, berms, terracing, compaction, or cribbing, installation of plant materials for erosion control, or implementation of other relevant BMPs: and reports of a registered soils engineer and/or of a registered engineering geologist whose recommendations may be made requirements for further work.</text>
+          <text>If, at any stage of the grading, the Director of Public Works determines by inspection that the nature of the earth formation is such that further work as authorized by an existing permit is likely to imperil any property, public way, watercourse or drainage structure, he or she may require, as a condition to allowing the work to proceed, that such reasonable safety precautions be taken as he or she considers advisable to avoid likelihood of such peril. "Special precautions" may include, but shall not be limited to, specifying a flatter exposed slope, construction of additional drainage facilities, berms, terracing, compaction, or cribbing, installation of plant materials for erosion control, or implementation of other relevant BMPs: and reports of a registered soils engineer and/or of a registered engineering geologist whose recommendations may be made requirements for further work.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Where it appears that storm damage may result because the grading is not complete, work may be stopped and the permittee required to install temporary planting or otherwise to control erosion, install temporary structures or take such other measures as may be required to protect adjoining property or the public safety. On large operations or where unusual site conditions prevail, the City Engineer may specify the time of starting grading and time of completion, or may require that the operation be conducted in specific stages so as to insure completion of protective measures or devices prior to the advent of seasonal rains.</text>
+          <text>Where it appears that storm damage may result because the grading is not complete, work may be stopped and the permittee required to install temporary planting or otherwise to control erosion, install temporary structures or take such other measures as may be required to protect adjoining property or the public safety. On large operations or where unusual site conditions prevail, the Director of Public Works may specify the time of starting grading and time of completion, or may require that the operation be conducted in specific stages so as to insure completion of protective measures or devices prior to the advent of seasonal rains.</text>
         </para>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-8" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
   </container>
