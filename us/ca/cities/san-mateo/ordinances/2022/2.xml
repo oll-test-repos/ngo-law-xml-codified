@@ -73,7 +73,7 @@
           <text>"Bachelor, efficiency or studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, a bathroom, and closets.</text>
         </para>
         <para>
-          <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.165|(c)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.165|(c)" codified:citation="Section 27.04.165" codified:display="Amend"/>
+          <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.165|(c)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.165|(c)"/>
           <num>(c)</num>
           <text>"Junior accessory dwelling unit" means an additional, independent living unit constructed within the walls of a proposed or legally existing single-family residence, including attached garages.</text>
         </para>
@@ -97,7 +97,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.010">Section 27.19.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.010" codified:citation="Section 27.19.010" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.010"/>
         <num>27.19.010</num>
         <heading>Purpose.</heading>
         <text>The purpose of this Article is to set forth regulations to permit accessory dwelling units (ADUs) in accordance with state law.</text>
@@ -109,7 +109,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.020">Section 27.19.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.020" codified:citation="Section 27.19.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.020"/>
         <num>27.19.020</num>
         <heading>Reserved.</heading>
       </section>
@@ -120,7 +120,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.030">Section 27.19.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.030" codified:citation="Section 27.19.030" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.030"/>
         <num>27.19.030</num>
         <heading>Prohibition on Sale and Limitation on Rental.</heading>
         <para>
@@ -139,7 +139,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.040">Section 27.19.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.040" codified:citation="Section 27.19.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.040"/>
         <num>27.19.040</num>
         <heading>Ministerial Permit Approval.</heading>
         <text>An ADU permit application for either an attached or a detached ADU is required in order to demonstrate that a unit is in compliance with the provisions of this Article. If the ADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit will be issued.  Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU permit is not appealable.</text>
@@ -151,7 +151,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.045">Section 27.19.045 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="27.19" after="27.19.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.045" codified:citation="Section 27.19.045" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="27.19" after="27.19.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.045"/>
         <num>27.19.045</num>
         <heading>Discretionary Review as Alternative to Ministerial Approval.</heading>
         <para>
@@ -194,7 +194,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050" codified:citation="Section 27.19.050" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050"/>
         <num>27.19.050</num>
         <heading>Development Standards</heading>
         <text>An ADU, as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
@@ -394,7 +394,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.060">Section 27.19.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.060" codified:citation="Section 27.19.060" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.060"/>
         <num>27.19.060</num>
         <heading>Reserved.</heading>
       </section>
@@ -405,7 +405,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.070">Section 27.19.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.070" codified:citation="Section 27.19.070" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.070"/>
         <num>27.19.070</num>
         <heading>Purpose.</heading>
         <text>The purpose of this Article is to set forth regulations to permit junior accessory dwelling units (JADUs).</text>
@@ -417,7 +417,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.080">Section 27.19.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.080" codified:citation="Section 27.19.080" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.080"/>
         <num>27.19.080</num>
         <heading>Reserved.</heading>
       </section>
@@ -428,7 +428,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.090">Section 27.19.090 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.090" codified:citation="Section 27.19.090" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.090"/>
         <num>27.19.090</num>
         <heading>Prohibition on Sale and Limitation on Rental.</heading>
         <para>
@@ -447,7 +447,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.100">Section 27.19.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.100" codified:citation="Section 27.19.100" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.100"/>
         <num>27.19.100</num>
         <heading>Ministerial Permit Required.</heading>
         <text>A JADU permit application is required in order to demonstrate that the unit is in compliance with the provisions of this Article. If the JADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit shall be issued.</text>
@@ -459,7 +459,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.110">Section 27.19.110 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.110" codified:citation="Section 27.19.110" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.110" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.110"/>
         <num>27.19.110</num>
         <heading>Development Standards.</heading>
         <text>A "junior accessory dwelling unit," as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, must comply with the following development standards:</text>
@@ -543,7 +543,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.120">Section 27.19.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.120" codified:citation="Section 27.19.120" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.120"/>
         <num>27.19.120</num>
         <heading>Recordation of Deed Restriction.</heading>
         <para>

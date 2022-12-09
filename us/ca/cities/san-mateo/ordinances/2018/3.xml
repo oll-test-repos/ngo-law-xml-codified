@@ -391,7 +391,7 @@
     <text>Subsection (k)(1) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>, "Accessory Dwelling Unit and Junior Accessory Dwelling Unit – Residential Zones," is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace path="27.19.050|(k)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(1)"/>
+        <codify:replace path="27.19.050|(k)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050"/>
         <num codify:value="(1)">1.</num>
         <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district.</text>
       </para>
@@ -402,7 +402,7 @@
     <text>Subsection (k)(5) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace path="27.19.050|(k)|(5)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(5)"/>
+        <codify:replace path="27.19.050|(k)|(5)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050"/>
         <num codify:value="(5)">5.</num>
         <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
         <para>
