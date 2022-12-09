@@ -36,7 +36,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.16.040">Section 7.16.040</cite>, "Property Nuisances," of <cite doc="City of San Mateo, Cal., Code" path="7.16">Chapter 7.16</cite>, "Public Nuisances," is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.16.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.16.040" codified:citation="Section 7.16.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.16.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.16.040"/>
         <num>7.16.040</num>
         <heading>PROPERTY NUISANCES.</heading>
         <text>The following are expressly declared to be public nuisances:</text>

@@ -521,7 +521,15 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Garbage cans visible from a public street for more than 24 hours.</text>
+        <text>Waste containers stored within public view or placed for collection along a street, roadway, or alley outside of the time limitations set forth below:</text>
+        <para>
+          <num>(1)</num>
+          <text>In all zoning districts except for the Central Business District and Central Business District Support zoning districts, any waste containers placed for collection along a street, roadway, or alley shall be set out only on the day established for collection or after 12 noon on the day immediately prior to collection, and must be removed by 12 midnight on the day of collection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within the Central Business District and Central Business District Support zoning districts, any waste containers placed for collection along a street, roadway, or alley shall be set out only on the day established for collection or after 6 p.m. on the day immediately prior to collection, and must be removed by 11 a.m. on the day of collection.</text>
+        </para>
       </para>
       <para>
         <num>(l)</num>
@@ -537,6 +545,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-25" path="§1" type="History"/>
+        <annotation app="2018-12-19" doc="City of San Mateo, Cal., Ord. No. 2018-9" eff="2018-12-19" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
