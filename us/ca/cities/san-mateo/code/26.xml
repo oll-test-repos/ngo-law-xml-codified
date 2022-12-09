@@ -2325,7 +2325,7 @@
         <text>Requirements. Credits may be given for facilities included on the list of private park and recreation facilities approved for credit by resolution of the City Council. Facilities that fall within two or more of the classifications set forth in the resolution will be placed in the category that best fits the potential use of the facility. There will be no double credits for facilities. In order for private park and recreational facilities to be eligible for credit, the Parks and Recreation Director or designee must determine that it is in the public interest to do so, that the proposed private park and recreational facilities and their design and location are appropriate for the proposed development and all of the following requirements are met:</text>
         <para>
           <num>(1)</num>
-          <text>The proposed private park and recreational facility space equals at least 25% of the acreage of the total parkland dedication requirement.</text>
+          <text>The proposed private park and recreational facility space equals at least 25% of the acreage of the total parkland dedication requirement, except that residential development projects, which are 100% affordable to low and moderate income households, will have no minimum threshold. "Low or moderate income" households means persons and families whose income does not exceed 120 percent of area median income, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50093">Health and Safety Code section 50093</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2401,6 +2401,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-50" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-47" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-9" path="§1" type="History"/>
+        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-9" eff="2020-08-19" path="§1" type="History"/>
       </annotations>
     </section>
     <section>

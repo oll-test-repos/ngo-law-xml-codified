@@ -52,7 +52,7 @@
         <num>26.64.030</num>
         <heading>PRIVATE PARK AND RECREATIONAL FACILITY SPACE CREDIT</heading>
         <para>
-          <codify:replace doc="City of San Mateo, Cal., Code" path="26.64.030|(b)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.64.030|(b)|(1)" codified:citation="Section 26.64.030" codified:display="Amend"/>
+          <codify:replace doc="City of San Mateo, Cal., Code" path="26.64.030|(b)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.64.030|(b)|(1)"/>
           <num>(1)</num>
           <text>The proposed private park and recreational facility space equals at least 25% of the acreage of the total parkland dedication requirement, except that residential development projects, which are 100% affordable to low and moderate income households, will have no minimum threshold. "Low or moderate income" households means persons and families whose income does not exceed 120 percent of area median income, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50093">Health and Safety Code section 50093</cite>.<span codify:value="">"</span></text>
         </para>
