@@ -49,7 +49,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.40.120">Section 7.40.120 "Sale of Electronic Cigarettes Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.120" codified:citation="Section 7.40.120" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.120"/>
         <num>7.40.120</num>
         <heading>Sale of Electronic Cigarettes Prohibited</heading>
         <para>
@@ -88,7 +88,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.40.130">Section 7.40.130 "Sale of Flavored Tobacco Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.130" codified:citation="Section 7.40.130" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.130"/>
         <num>7.40.130</num>
         <heading>Sale of Flavored Tobacco Prohibited</heading>
         <para>
@@ -143,7 +143,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.40.140">Section 7.40.140 "Sale of Tobacco Products in Pharmacies Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.140" codified:citation="Section 7.40.140" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.40.140"/>
         <num>7.40.140</num>
         <heading>Sale of Tobacco Products in Pharmacies Prohibited</heading>
         <para>
@@ -170,7 +170,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.060">Section 7.41.060 "Enforcement of Applicable Law" of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.060" codified:citation="Section 7.41.060" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.060"/>
         <num>7.41.060</num>
         <heading>Enforcement of Applicable Law</heading>
         <text>If an agent or employee of the tobacco retailer violates any provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite> or any city, federal, or state tobacco-related law, the tobacco retailer shall immediately report the violation to the Police Department and the Environmental Health Division.</text>
@@ -182,7 +182,7 @@
     <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="7.41.070">Section 7.41.070 "Suspension of Permit" of the San Mateo Municipal Code</cite> is amended as follows</text>
     <include>
       <para>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.070|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070|(a)" codified:citation="Section 7.41.070" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.070|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070|(a)"/>
         <num>(a)</num>
         <text>Grounds for Suspension. A tobacco retailer's permit may be suspended, as set forth below in subdivision (b), by the Director upon a finding, after notice and opportunity to be heard, that either of the following occurred:</text>
         <para>

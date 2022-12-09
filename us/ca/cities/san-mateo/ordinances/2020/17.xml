@@ -61,7 +61,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.020" codified:citation="Section 23.24.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.020"/>
         <num>23.24.020</num>
         <heading>Local Amendment to Definitions</heading>
         <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the 2019 state Energy Code is amended to add the following definitions:</text>
@@ -84,7 +84,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040">Section 23.24.040 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.040" codified:citation="Section 23.24.040" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.040"/>
         <num>23.24.040</num>
         <heading>Local Amendment Regarding All-Electric Requirements for Residential Buildings and Buildings with Office Use.</heading>
         <para>
@@ -104,7 +104,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.050">Section 23.24.050 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.050" codified:citation="Section 23.24.050" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.050"/>
         <num>23.24.050</num>
         <heading>Local Amendment Regarding All-Electric or Energy Efficiency Standards for High-Rise Multifamily Residential Buildings with 100% Affordable Units.</heading>
         <para>
@@ -167,7 +167,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060">Section 23.24.060 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.060" codified:citation="Section 23.24.060" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.060"/>
         <num>23.24.060</num>
         <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Low-Rise Residential Buildings with 100% Affordable Units.</heading>
         <para>
@@ -219,7 +219,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.070">Section 23.24.070 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.070" codified:citation="Section 23.24.070" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.070"/>
         <num>23.24.070</num>
         <heading>Infeasibility Exemption.</heading>
         <para>
@@ -258,7 +258,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.080">Section 23.24.080 of the San Mateo Municipal Code</cite> is hereby added to <cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="23.24" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.080" codified:citation="Section 23.24.080" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="23.24" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.080"/>
         <num>23.24.080</num>
         <heading>Expiration.</heading>
         <text>These local code amendments shall sunset when the California Energy Code, 2019 Edition, is no longer in effect.</text>

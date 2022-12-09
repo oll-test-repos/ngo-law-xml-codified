@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="3.56.030">Section 3.56.030</cite> "General Tax", of <cite doc="City of San Mateo, Cal., Code" path="3.56">Chapter 3.56, "Transient Occupancy Tax" of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.56.030" codified:citation="Section 3.56.030" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.56.030"/>
         <num>3.56.030</num>
         <heading>GENERAL TAX</heading>
         <text>For the privilege of occupancy in any hotel, each transient is subject to and shall pay a general tax in the amount of 12% of the rent charged by the operator. Said tax constitutes a debt owed by the transient to the City which is extinguished only by payment to the operator or to the City. The transient shall pay the tax to the operator of the hotel at the time the rent is paid. If the rent is paid in installments, a proportionate share of the tax shall be paid with each installment. The unpaid tax shall be due upon the transient's ceasing to occupy space in the hotel. If for any reason the tax due is not paid to the operator of the hotel, the Tax Collector may require that such tax shall be paid directly to the Tax Collector.</text>
