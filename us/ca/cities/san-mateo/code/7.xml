@@ -63,7 +63,7 @@
     <heading>PROPERTY MAINTENANCE CODE</heading>
     <section>
       <num>7.14.010</num>
-      <heading>ADOPTION.</heading>
+      <heading>Adoption</heading>
       <text><cite path="7.14">This chapter</cite> shall be known and may be cited as the "Property Maintenance Code" and will be referred to in <cite path="7.14">this chapter</cite> as "this code."</text>
       <para>
         <num>(a)</num>
@@ -71,7 +71,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The 2015 edition of the International Property Maintenance Code as published by the International Code Council is adopted with amendments as listed below as the rules, regulations, and standards as to all matters contained therein.</text>
+        <text>The 2021 edition of the International Property Maintenance Code as published by the International Code Council is adopted with amendments as listed below as the rules, regulations, and standards as to all matters contained therein.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -79,151 +79,141 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>7.14.020</num>
-      <heading>SCOPE AND ADMINISTRATION.</heading>
+      <heading>Scope and Administration</heading>
       <text>Chapter 1 Scope and Administration is amended as follows:</text>
       <para>
         <num>(a)</num>
-        <text>Section 102.7.1 Conflicts is amended as follows:</text>
+        <text>Section 102.8.1 Conflicts is amended as follows:</text>
         <include>
           <text>Where conflicts occur between provision of this code and the referenced standards, the provisions of this code shall apply. Where conflicts occur between either this code or the referenced standards and California Building Standards Code, as adopted by the City in <cite path="23">Title 23</cite> Buildings and Construction of the municipal code, the provisions of <cite path="23">Title 23</cite> shall apply.</text>
         </include>
       </para>
       <para>
         <num>(b)</num>
-        <text>Section 103.1 General is amended as follows:</text>
+        <text>Section 103.1 Creation of agency is amended as follows:</text>
         <include>
-          <text>The community development director shall be known as the code official.</text>
+          <text>The community development director, or their designees, shall be known as the code official.</text>
         </include>
       </para>
       <para>
         <num>(c)</num>
-        <text>103.4 Liability is amended as follows:</text>
-        <include>
-          <text>The code official, or employee charged with the enforcement of this code, while acting for the jurisdiction, in good faith and without malice in the discharge of the duties required by this code or other pertinent law or ordinance, shall not thereby be rendered civilly or criminally liable personally, and is hereby relieved from all personal liability for any damage accruing to persons or property as a result of an act or by reason of an act or omission in the discharge of official duties.</text>
-        </include>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Section 104.1 General is amended as follows:</text>
+        <text>Section 105.1 General is amended as follows:</text>
         <include>
           <text>The code official is hereby authorized and directed to enforce the provisions of this code, as well as the State Housing Law as contained in Part 1.5 of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>. The code official shall have the authority to render interpretations of this code and to adopt policies and procedures in order to clarify the application of its provisions. Such interpretations, policies, and procedures shall be in compliance with the intent and purpose of this code. Such policy and procedures shall not have the effect of waiving requirements specifically provided for in this code.</text>
         </include>
       </para>
       <para>
-        <num>(e)</num>
-        <text>Section 104.3.1 Costs incurred in securing right of entry, is added as follows:</text>
-        <include>
-          <text>Any and all costs incurred by the city in connection with securing lawful entry to a structure or premises including but not limited to, costs of investigation, staffing costs incurred in the preparation of warrants, and all subsequent costs necessary to enforce compliance with the provisions of this code may be recovered including costs of collection by use of any and all available legal means.</text>
-        </include>
+        <num>(d)</num>
+        <text>Section 107 Means of Appeal is not adopted:</text>
+        <text>Appeals of administrative citations or compliance orders of the code official issued under this code shall be conducted in accordance with <cite path="1.10">Chapter 1.10</cite> Administrative Citations or <cite path="1.14">Chapter 1.14</cite> Administrative Compliance Orders</text>
       </para>
       <para>
-        <num>(f)</num>
-        <text>Section 106.1 Unlawful acts is amended as follows:</text>
+        <num>(e)</num>
+        <text>Section 109.1 Unlawful acts is amended as follows:</text>
         <include>
           <text>It is unlawful and a public nuisance for any person, firm or corporation to erect, construct, enlarge, alter, repair, move, improve, remove, convert or demolish, equip, use, occupy or maintain any premises, building, structure, building service equipment in violation of this code or <cite path="23">Title 23</cite>, or in a substandard condition; or cause or permit the same to be done.</text>
         </include>
       </para>
       <para>
+        <num>(f)</num>
+        <text>Section 110.4 Failure to comply is amended as follows:</text>
+        <include>
+          <text>Any person who shall continue any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be liable for penalties in accordance with <cite path="1.04">Chapter 1.04</cite> General Penalty.</text>
+        </include>
+      </para>
+      <para>
         <num>(g)</num>
-        <text>Section 108.1 General is amended as follows:</text>
+        <text>Section 111.1 Unsafe conditions is amended as follows:</text>
         <include>
           <text>When a premises, building, structure, or equipment is found by the code official based on a determination by the building official to be unsafe, or when a structure is found unfit for human occupancy, or is found unlawful, such structure shall be posted in accordance with this section and declared to be a public nuisance and the violations shall be abated by repair, rehabilitation, demolition or removal pursuant to the applicable provisions of the adopted California Standards Building Code and this code where applicable.</text>
         </include>
       </para>
       <para>
         <num>(h)</num>
-        <text>Section 108.1.4 Unlawful structure is amended as follows:</text>
+        <text>Section 111.4 Unlawful structure is amended as follows:</text>
         <include>
           <text>An unlawful structure is one found in whole or in part to be occupied by more persons than permitted under this code, or was erected, altered, occupied or maintained contrary to law; or one that is partially constructed, reconstructed or demolished, and such work is abandoned. Work is deemed abandoned if there is no valid building or demolition permit.</text>
         </include>
       </para>
       <para>
         <num>(i)</num>
-        <text>Section 108.4 Placarding is amended as follows:</text>
+        <text>Section 111.7 Placarding is amended as follows:</text>
         <include>
           <text>When the code official determines a structure, equipment or premise has been erected, constructed, enlarged, altered, repaired, moved, improved, removed, damaged, converted or demolished, equipped, used, occupied or maintained in violation of the adopted building codes and/or this code and/or the structure, equipment or premise constitutes a danger to the life, limb, property or safety of the public or the occupants, the code official shall post a placard on the structure, equipment or premise in a conspicuous place in or about the affected structure, equipment or premise. The placard shall clearly state the code official's order regarding the structure, equipment or premise, and specify the conditions which necessitated the posting. Furthermore, the placard shall direct the premise owner/ manager to contact building department for necessary approvals/ permits/ inspections where applicable. (model code text removed in its entirety)</text>
         </include>
       </para>
       <para>
         <num>(j)</num>
-        <text>Section 108.4.1 Placard removal is amended as follows:</text>
+        <text>Section 111.7.1 Placard removal is amended as follows:</text>
         <include>
           <text>The code official shall remove the placard whenever the defect or defects upon which the placarding action was based has been eliminated. Any person who defaces or removes a placard without the approval of the code official shall be subject to the penalties provided by this code and applicable state law.</text>
         </include>
       </para>
       <para>
         <num>(k)</num>
-        <text>Section 108.5 Prohibited occupancy is amended as follows:</text>
+        <text>Section 111.8 Prohibited occupancy is amended as follows:</text>
         <include>
           <text>It shall be unlawful for any person, owner, owner's authorized agent, or other person responsible for the premise to occupy or allow to be occupied a placarded structure or premise or operate placarded equipment in violation of the code official's posted order.</text>
         </include>
       </para>
       <para>
         <num>(l)</num>
-        <text>Section 109.6 Hearing is amended as follows:</text>
+        <text>Section 112.6 Hearing is amended as follows:</text>
         <include>
           <text>Any person ordered to take emergency measures shall comply with such order forthwith. Any affected person shall thereafter, upon petition directed to the Community Relations Commission, be afforded an appeal hearing as prescribed in <cite path="1.10.060">Section 1.10.060</cite>.</text>
         </include>
       </para>
-      <para>
-        <num>(m)</num>
-        <text>Section 111 Means of Appeal is not adopted. Appeals of administrative citations or compliance orders of the code official issued under this code shall be conducted in accordance with <cite path="1.10">Chapter 1.10</cite> Administrative Citations or <cite path="1.14">Chapter 1.14</cite> Administrative Compliance Orders.</text>
-      </para>
-      <para>
-        <num>(n)</num>
-        <text>Section 112.4 Failure to comply is amended as follows:</text>
-        <include>
-          <text>Any person who shall continue any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be liable for penalties in accordance with <cite path="1.04">Chapter 1.04</cite> General Penalty.</text>
-        </include>
-      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
       <num>7.14.030</num>
       <heading>DEFINITIONS.</heading>
-      <text>Chapter 2, Section 202 DEFINITIONS is amended as follows:</text>
+      <text>Chapter 2 Section 202 Definitions is amended as follows:</text>
       <para>
         <num>(a)</num>
-        <text>INOPERABLE MOTOR VEHICLE is amended as follows:</text>
+        <text><strong>Inoperable Motor Vehicle</strong> is amended as follows:</text>
         <include>
           <text>Inoperative motor vehicle is defined in <cite path="7.16.041">section 7.16.041</cite> of the municipal code.</text>
         </include>
       </para>
       <para>
         <num>(b)</num>
-        <text>SUBSTANDARD BUILDING is added as follows:</text>
+        <text><strong>Substandard Building</strong> is added as follows:</text>
         <include>
           <text>A substandard building is any building or portion thereof, or the premises on which the same is located, in which there exists any of the conditions listed in the rules and regulations of the State Housing Law, as codified in <cite doc="Cal. Health &amp; Safety Code" path="§17920.3">section 17920.3 of the Health and Safety Code</cite>.</text>
         </include>
       </para>
       <para>
         <num>(c)</num>
-        <text>TEMPORARY is added as follows:</text>
+        <text><strong>Temporary</strong> is added as follows:</text>
         <include>
-          <text>Temporary shall mean buildings, facilities, or structures intended for use at one location for not more than six months or as approved by the building official for the purpose of this code only.</text>
+          <text>Temporary shall mean buildings, facilities, or structures intended for use at one location for not more than 180 days or as approved by the building official for the purpose of this code only.</text>
         </include>
       </para>
       <para>
         <num>(d)</num>
-        <text>WEEDS is added as follows:</text>
+        <text><strong>Weeds</strong> is added as follows:</text>
         <include>
           <text>Weeds is defined in <cite path="7.20.020">section 7.20.020</cite> of the municipal code.</text>
         </include>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>7.14.040</num>
       <heading>GENERAL REQUIREMENTS.</heading>
-      <text>CHAPTER 3, GENERAL REQUIREMENTS is amended as follows:</text>
+      <text>Chapter 3 General Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
         <text>Section 302.1 Sanitation is amended as follows:</text>
@@ -248,19 +238,19 @@
       </para>
       <para>
         <num>(d)</num>
+        <text>Section 303 Swimming Pools, Spas, and Hot Tubs is not adopted.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Section 304.3 Premises identification is not adopted.</text>
+      </para>
+      <para>
+        <num>(f)</num>
         <text>Section 304.14 Insect screens is amended as follows:</text>
         <include>
           <text>Every door, window and other outside opening required for ventilation of habitable rooms, food preparation areas, food service areas or any areas where products to be included or utilized in food for human consumption are processed, manufactured, packaged or stored shall be supplied with approved tightly fitting screens of minimum 16 mesh per inch (16 mesh per 25mm), and every screen door used for insect control shall have a self-closing in good working condition.</text>
           <text>Exception: Screens shall not be required where other approved means, such as air curtains or insect repellent fans, are employed.</text>
         </include>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Section 303 SWIMMING POOLS, SPAS, AND HOT TUBS is not adopted.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Section 304.3 Address identification is not adopted.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -276,8 +266,36 @@
           <text>Basement hatchways and under-floor access doors and ventilation openings shall be maintained to prevent the entrance of rodents, rain and surface drainage water. Doors shall be tight fitting and ventilation openings shall be properly screened with corrosion-resistant wire mesh having openings not exceeding 1/4 inch in any dimension or alternate approved materials pursuant to the adopted California Building Standards Code.</text>
         </include>
       </para>
+      <para>
+        <num>(i)</num>
+        <text>Section 309 Pest Elimination is amended as follows:</text>
+        <include>
+          <text>If pest infestation, determined by a licensed pest control professional, is found in the habitable space the owner of the structure shall promptly eliminate the infestation by an approved process that will not be injurious to human health. After pest elimination, proper precautions shall be taken to prevent reinfestation.</text>
+          <text>If reinfestation is determined by a licensed pest control professional to be caused by failure of an occupant to prevent such infestation in the area occupied, the occupant and owner shall be responsible for pest elimination.</text>
+        </include>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>309.3 Single occupant is amended as follows:</text>
+        <include>
+          <text>The occupant of a one-family dwelling or of a single- tenant nonresidential structure, who has occupied the structure for two (2) years or more, shall be responsible for pest elimination on the premises.</text>
+        </include>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>309.4 Multiple occupancy</text>
+        <include>
+          <text>The owner of a structure containing four (4) or more dwelling units, a multiple occupancy, a rooming house or a nonresidential structure shall be responsible for pest elimination in the public or shared areas of the structure and exterior property.</text>
+          <text>The Code Official shall require the property owner to provide a report and remediation plan from a licensed pest control professional.</text>
+        </include>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>309.5 Occupant Is not adopted.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -293,6 +311,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -322,6 +341,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -335,8 +355,14 @@
           <text>A safe, continuous and unobstructed path of travel shall be provided from any point in a building or structure to the public way. Means of egress shall comply with <cite path="23">Title 23</cite> Buildings and Construction.</text>
         </include>
       </para>
+      <para>
+        <num>(b)</num>
+        <text>Appendix B Means of Appeal is not adopted.</text>
+        <text>Appeals of administrative citations or compliance orders of the code official issued under this code shall be conducted in accordance with <cite path="1.10">Chapter 1.10</cite> Administrative Citations or <cite path="1.14">Chapter 1.14</cite> Administrative Compliance Orders.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-1" path="§2" type="History"/>
+        <annotation app="2021-08-18" doc="City of San Mateo, Cal., Ord. No. 2021-19" eff="2021-08-18" path="§7" type="History"/>
       </annotations>
     </section>
   </container>

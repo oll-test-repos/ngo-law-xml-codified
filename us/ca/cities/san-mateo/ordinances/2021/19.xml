@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.010">Section 7.14.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.010" codified:citation="Section 7.14.010" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.010"/>
         <num>7.14.010</num>
         <heading>Adoption</heading>
         <text><cite doc="City of San Mateo, Cal., Code" path="7.14">This chapter</cite> shall be known and may be cited as the "Property Maintenance Code" and will be referred to in <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> as "this code."</text>
@@ -69,7 +69,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.020">Section 7.14.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.020" codified:citation="Section 7.14.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.020"/>
         <num>7.14.020</num>
         <heading>Scope and Administration</heading>
         <text>Chapter 1 Scope and Administration is amended as follows:</text>
@@ -162,7 +162,7 @@
     <num>3</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.030">Section 7.14.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.030" codified:citation="Section 7.14.030" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.030"/>
       <text>Chapter 2 Section 202 Definitions is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -198,7 +198,7 @@
     <num>4</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.040">Section 7.14.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.040" codified:citation="Section 7.14.040" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.040"/>
       <text>Chapter 3 General Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -285,7 +285,7 @@
     <num>5</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.050">Section 7.14.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.050" codified:citation="Section 7.14.050" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.050"/>
       <text>Chapter 5 Plumbing Facilities and Fixture Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -300,7 +300,7 @@
     <num>6</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.060">Section 7.14.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.060" codified:citation="Section 7.14.060" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.060"/>
       <text>Chapter 6 Mechanical and Electrical Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -329,7 +329,7 @@
     <num>7</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.070">Section 7.14.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.070" codified:citation="Section 7.14.070" codified:display="Amend"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.14.070"/>
       <text>Chapter 7 Fire Safety Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
