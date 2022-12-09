@@ -87,7 +87,7 @@
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.080">Section 27.06.080</cite>, "State Planning and Zoning Regulations," is amended to read as follows:</text>
     <include>
-      <codify:replace-content path="27.06.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.080" codified:citation="Section 27.06.080" codified:display="Amend"/>
+      <codify:replace-content path="27.06.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.080"/>
       <para>
         <num codify:value="(a)">(a.)</num>
         <text>Chapters 3 and 4 of Title 7 of the California Government Code, commencing with <cite doc="Cal. Gov't Code" path="§65100">Section 65100</cite> thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
@@ -118,13 +118,13 @@
       </para>
     </include>
   </section>
-  <codify:remove path="27.16.060" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.16.010" codified:citation="Section 27.16.010" codified:display="Remove"/>
+  <codify:remove path="27.16.060" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.16.010"/>
   <section>
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.16.060">Section 27.16.060</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27.16">Chapter 27.16</cite>, "Residence Districts," is relocated to a new <cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
     <include>
       <container>
-        <codify:insert path="27" before="27.16" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.15.010" codified:citation="Section 27.15.010" codified:display="New"/>
+        <codify:insert path="27" before="27.16" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.15.010"/>
         <prefix>Chapter</prefix>
         <num>27.15</num>
         <heading>DENSITY BONUS</heading>
@@ -377,9 +377,9 @@
         </section>
       </container>
     </include>
-    <codify:find-replace path="27.30.027|(a)" count="1" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.30.027|(a)" codified:citation="Section 27.30.027" codified:display="Amend">
+    <codify:find-replace path="27.30.027|(a)" count="1" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.30.027|(a)">
       <find>
-        <cite path="27.16.060">Section 27.16.060</cite>
+        <cite path="27.16.060" doc="City of San Mateo, Cal., Ord. No. 2018-3">Section 27.16.060</cite>
       </find>
       <replace>
         <cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15</cite>
@@ -391,7 +391,7 @@
     <text>Subsection (k)(1) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>, "Accessory Dwelling Unit and Junior Accessory Dwelling Unit – Residential Zones," is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace path="27.19.050|(k)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(1)" codified:citation="Section 27.19.050" codified:display="Amend"/>
+        <codify:replace path="27.19.050|(k)|(1)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(1)"/>
         <num codify:value="(1)">1.</num>
         <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district.</text>
       </para>
@@ -402,7 +402,7 @@
     <text>Subsection (k)(5) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace path="27.19.050|(k)|(5)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(5)" codified:citation="Section 27.19.050" codified:display="Amend"/>
+        <codify:replace path="27.19.050|(k)|(5)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.19.050|(k)|(5)"/>
         <num codify:value="(5)">5.</num>
         <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
         <para>
