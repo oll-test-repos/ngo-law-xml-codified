@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.04.356">Section 27.04.356 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="27.04" after="27.04.355" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.356" codified:citation="Section 27.04.356" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="27.04" after="27.04.355" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.356"/>
         <num>27.04.356</num>
         <heading>Paving</heading>
         <para>
@@ -60,7 +60,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.18.070">Section 27.18.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.070" codified:citation="Section 27.18.070" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.070"/>
         <num>27.18.070</num>
         <heading>Front Yard</heading>
         <para>
@@ -119,7 +119,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.18.080">Section 27.18.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.080" codified:citation="Section 27.18.080" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.080"/>
         <num>27.18.080</num>
         <heading>Side Yards</heading>
         <para>
@@ -202,7 +202,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.18.100|(a)|(9)">Subsection (a)(9) of Section 27.18.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <para>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.100|(a)|(9)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.100|(a)|(9)" codified:citation="Section 27.18.100" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.100|(a)|(9)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.100|(a)|(9)"/>
         <num>(9)</num>
         <text>Uncovered decks, subject to the following standards:</text>
         <para>
@@ -221,7 +221,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.18.115">Section 27.18.115 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.115" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.115" codified:citation="Section 27.18.115" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.18.115" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.18.115"/>
         <num>27.18.115</num>
         <heading>San Mateo Park Planning Area</heading>
         <text>Notwithstanding other provisions of <cite doc="City of San Mateo, Cal., Code" path="27.18">this chapter</cite>, the following shall be applicable to the San Mateo Park planning area as is designated on the map shown below:</text>
@@ -264,7 +264,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.20.065">Section 27.20.065 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.20.065" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.20.065" codified:citation="Section 27.20.065" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.20.065" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.20.065"/>
         <num>27.20.065</num>
         <heading>Maximum Floor Area Ratio (Central Neighborhood &amp; North Central Neighborhood)</heading>
         <text>The floor area ratio of buildings and structures on zoning plots in the R2 district located in the Central Neighborhood and North Central Neighborhood shall not exceed 0.5 for parcels up to 7,500 square feet and 0.6 for parcels greater than 7,500 square feet.</text>
@@ -284,7 +284,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.32.010|(p)">Subsection (p) of Section 27.32.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <para>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.32.010|(p)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.32.010|(p)" codified:citation="Section 27.32.010" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.32.010|(p)" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.32.010|(p)"/>
         <num>(p)</num>
         <text>Emergency Shelters, located more than 300 feet from single family zoning districts;</text>
       </para>
