@@ -63,7 +63,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.50">Chapter 7.50 of the San Mateo Municipal Code</cite> is added as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="7" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50" codified:citation="Chapter 7.50" codified:display="New">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="7" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50">
       <container>
         <prefix>Chapter</prefix>
         <num>7.50</num>
@@ -131,13 +131,13 @@
           </toc-section>
         </toc>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.010" codified:citation="Section 7.50.010" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.010"/>
           <num>7.50.010</num>
           <heading>Title.</heading>
           <text><cite doc="City of San Mateo, Cal., Code" path="7.50">This Chapter</cite> shall be known as Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</text>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.020" codified:citation="Section 7.50.020" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.020"/>
           <num>7.50.020</num>
           <heading>Definitions.</heading>
           <text>For the purposes of this <cite doc="City of San Mateo, Cal., Code" path="7.50">Chapter 7.50</cite>, the following words and phrases shall have the meanings set forth herein:</text>
@@ -191,7 +191,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.030" codified:citation="Section 7.50.030" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.030"/>
           <num>7.50.030</num>
           <heading>Tenant eligibility for relocation payments.</heading>
           <para>
@@ -244,7 +244,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.040" codified:citation="Section 7.50.040" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.040"/>
           <num>7.50.040</num>
           <heading>City notices to property owners.</heading>
           <para>
@@ -257,13 +257,13 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.050" codified:citation="Section 7.50.050" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.050"/>
           <num>7.50.050</num>
           <heading>Property owners' notices to tenants.</heading>
           <text>Any notice from a property owner to an eligible tenant household to vacate or quit a dwelling or room following the issuance by City of a notice to vacate, notice to abate a life threatening condition, or declaration of substandard condition must set forth the reasons for the need to vacate, the tenant household's entitlement to relocation payments from the property owner, the tenant household's right to re-occupancy following completion of repairs (if the property is one to be repaired), and the estimated date for re-occupancy. The property owner shall send a copy of all notices to theDirector.</text>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.060" codified:citation="Section 7.50.060" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.060"/>
           <num>7.50.060</num>
           <heading>Relocation payments by property owners.</heading>
           <para>
@@ -296,7 +296,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.070" codified:citation="Section 7.50.070" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.070"/>
           <num>7.50.070</num>
           <heading>Relocation payments by City chargeable to property owners.</heading>
           <para>
@@ -309,7 +309,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.080" codified:citation="Section 7.50.080" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.080"/>
           <num>7.50.080</num>
           <heading>Tenant households' return rights.</heading>
           <para>
@@ -330,7 +330,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.090" codified:citation="Section 7.50.090" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.090"/>
           <num>7.50.090</num>
           <heading>Amount of relocation payments.</heading>
           <para>
@@ -371,7 +371,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.100" codified:citation="Section 7.50.100" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.100"/>
           <num>7.50.100</num>
           <heading>Appeals process.</heading>
           <para>
@@ -424,7 +424,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.110" codified:citation="Section 7.50.110" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.110"/>
           <num>7.50.110</num>
           <heading>Retaliation Barred.</heading>
           <para>
@@ -461,7 +461,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.120" codified:citation="Section 7.50.120" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.120"/>
           <num>7.50.120</num>
           <heading>Private right of action.</heading>
           <para>
@@ -474,7 +474,7 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.130" codified:citation="Section 7.50.130" codified:display="New"/>
+          <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|7.50.130"/>
           <num>7.50.130</num>
           <heading>Severability.</heading>
           <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
@@ -487,7 +487,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="26.65.060">Section 26.65.060</cite> "Conditions" of <cite doc="City of San Mateo, Cal., Code" path="26.65">Chapter 26.65</cite> "Conversions to Condominiums, Stock Cooperatives, and Community Apartments" is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="26.65.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.060" codified:citation="Section 26.65.060" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="26.65.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|26.65.060"/>
         <num>26.65.060</num>
         <heading>CONDITIONS.</heading>
         <text>Approval of a proposed subdivision map for a conversion under <cite doc="City of San Mateo, Cal., Code" path="26.65">this chapter</cite> shall be conditioned to secure the purposes of <cite doc="City of San Mateo, Cal., Code" path="26">this title</cite>. Such conditions shall include, but are not limited to the following:</text>
@@ -572,7 +572,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.02.180">Section 27.02.180</cite> "Relocation Assistance/Allowance" of <cite doc="City of San Mateo, Cal., Code" path="27.02">Chapter 27.02</cite> "General Provisions" is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.02.180" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.180" codified:citation="Section 27.02.180" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.02.180" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.180"/>
         <num>27.02.180</num>
         <heading>Relocation Assistance/Allowance.</heading>
         <text>In the event of demolition of existing residential dwelling units and/or conversion causing relocation, a list of the head of household of each unit to be demolished or converted shall be provided to the Planning Division in order to determine that a planning application is complete. Relocation assistance shall be provided by a planning applicant to each household prior to any notice of relocation as follows:</text>
