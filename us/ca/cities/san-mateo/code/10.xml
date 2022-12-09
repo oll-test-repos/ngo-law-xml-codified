@@ -132,11 +132,12 @@
     </section>
     <section>
       <num>10.04.080</num>
-      <heading>DRINKING—PUBLIC AREAS.</heading>
-      <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage on any public sidewalk, alley, street or highway. This section shall not be deemed to make punishable any such act or acts which are prohibited by the <cite doc="Cal. Veh. Code">Vehicle Code</cite> or by any other law of the State.</text>
+      <heading>Drinking—Public Areas.</heading>
+      <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage on any public sidewalk, alley, street, or highway, unless expressly permitted at that location pursuant to a permit, such as an outdoor dining permit or special event permit, and the consumption is in conformance with the terms of the permit.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
+        <annotation app="2020-07-15" doc="City of San Mateo, Cal., Ord. No. 2020-6" eff="2020-07-15" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
