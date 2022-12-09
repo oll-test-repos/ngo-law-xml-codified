@@ -53,7 +53,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.64.100">Section 27.64.100</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="27.64.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.100" codified:citation="Section 27.64.100" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.64.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.64.100"/>
         <num>27.64.100</num>
         <heading>PARKING ASSESSMENT AND SPECIAL DISTRICTS</heading>
         <para>
