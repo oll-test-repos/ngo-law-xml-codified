@@ -38,7 +38,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="2.26">Chapter 2.26, "Sustainability Commission," of the San Mateo Municipal Code</cite> is hereby repealed.</text>
-    <codify:remove path="2.26" warning="false" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.03.010" codified:citation="Section 2.03.010" codified:display="Remove"/>
+    <codify:remove path="2.26" warning="false" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.03.010"/>
   </section>
   <section>
     <num>2</num>
@@ -48,11 +48,11 @@
         <prefix>Chapter</prefix>
         <num>2.28</num>
         <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
-        <codify:replace path="2.28|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28" codified:citation="Chapter 2.28" codified:display="Amend">
+        <codify:replace path="2.28|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28">
           <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
         </codify:replace>
         <section>
-          <codify:replace path="2.28.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.010" codified:citation="Section 2.28.010" codified:display="Amend"/>
+          <codify:replace path="2.28.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.010"/>
           <num>2.28.010</num>
           <heading>ORGANIZATION.</heading>
           <para>
@@ -65,13 +65,13 @@
           </para>
         </section>
         <section>
-          <codify:replace path="2.28.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.020" codified:citation="Section 2.28.020" codified:display="Amend"/>
+          <codify:replace path="2.28.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.020"/>
           <num>2.28.020</num>
           <heading>MEETINGS.</heading>
           <text>The commission shall meet within one month of its formation and establish itself by electing a chairman, vice-chairman and secretary to serve at the pleasure of the commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
         </section>
         <section>
-          <codify:replace path="2.28.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.030" codified:citation="Section 2.28.030" codified:display="Amend"/>
+          <codify:replace path="2.28.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.28.030"/>
           <num>2.28.030</num>
           <heading>POWERS—DUTIES.</heading>
           <text>It shall be the duty of the sustainability and infrastructure commission, as an advisory body to the City Council, to advise on policies and programs related to environmental sustainability, transportation and infrastructure.</text>
@@ -103,20 +103,20 @@
         <li><cite doc="City of San Mateo, Cal., Code" path="23.40.040">23.40.040</cite> Procedures.</li>
       </ul>
     </text>
-    <codify:find-replace path="5.75.430" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.75.430" codified:citation="Section 5.75.430" codified:display="Amend"/>
-    <codify:find-replace path="7.38.410" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.410" codified:citation="Section 7.38.410" codified:display="Amend"/>
-    <codify:find-replace path="7.39.200" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.39.200" codified:citation="Section 7.39.200" codified:display="Amend"/>
-    <codify:find-replace path="11.16.050" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.050" codified:citation="Section 11.16.050" codified:display="Amend"/>
-    <codify:find-replace path="11.16.060" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.060" codified:citation="Section 11.16.060" codified:display="Amend"/>
-    <codify:find-replace path="11.16.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.070" codified:citation="Section 11.16.070" codified:display="Amend"/>
-    <codify:find-replace path="11.32.120" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.32.120" codified:citation="Section 11.32.120" codified:display="Amend"/>
-    <codify:find-replace path="11.44.110" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.44.110" codified:citation="Section 11.44.110" codified:display="Amend"/>
-    <codify:find-replace path="13.25.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.25.080" codified:citation="Section 13.25.080" codified:display="Amend"/>
-    <codify:find-replace path="17.08.115" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.115" codified:citation="Section 17.08.115" codified:display="Amend"/>
-    <codify:find-replace path="17.08.130" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.130" codified:citation="Section 17.08.130" codified:display="Amend"/>
-    <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.24.080" codified:citation="Section 17.24.080" codified:display="Amend"/>
-    <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.30.070" codified:citation="Section 17.30.070" codified:display="Amend"/>
-    <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.30.080" codified:citation="Section 17.30.080" codified:display="Amend"/>
+    <codify:find-replace path="5.75.430" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.75.430"/>
+    <codify:find-replace path="7.38.410" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.38.410"/>
+    <codify:find-replace path="7.39.200" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.39.200"/>
+    <codify:find-replace path="11.16.050" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.050"/>
+    <codify:find-replace path="11.16.060" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.060"/>
+    <codify:find-replace path="11.16.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.16.070"/>
+    <codify:find-replace path="11.32.120" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.32.120"/>
+    <codify:find-replace path="11.44.110" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.44.110"/>
+    <codify:find-replace path="13.25.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|13.25.080"/>
+    <codify:find-replace path="17.08.115" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.115"/>
+    <codify:find-replace path="17.08.130" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.130"/>
+    <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.24.080"/>
+    <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.30.070"/>
+    <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.30.080"/>
   </section>
   <section>
     <num>4</num>
