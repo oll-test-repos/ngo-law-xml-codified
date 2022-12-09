@@ -35,7 +35,7 @@
   <section>
     <num>1</num>
     <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite> of <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> is amended to add <cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite> to the list of Municipal Code Chapters of the San Mateo Municipal Code that may be enforced by the Community Development Director, Neighborhood Improvement and Housing Manager, Senior Code Enforcement Officer, and Code Enforcement Officer.</text>
-    <codify:find-replace doc="City of San Mateo, Cal., Code" path="1.04.050" count="1" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050" codified:citation="Section 1.04.050" codified:display="Amend">
+    <codify:find-replace doc="City of San Mateo, Cal., Code" path="1.04.050" count="1" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050">
       <find><cite path="5.64">5.64</cite>, Sections</find>
       <replace><cite path="5.64">5.64</cite>, <cite path="5.66">5.66</cite>, Sections</replace>
     </codify:find-replace>
@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite>, "Short Term Rentals," is added to <cite doc="City of San Mateo, Cal., Code" path="5">Title 5, "Business Licenses and Regulations," of the San Mateo Municipal Code</cite> to read as follows:</text>
     <include>
       <container>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="5" after="5.64" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.010" codified:citation="Section 5.66.010" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="5" after="5.64" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.66.010"/>
         <prefix>Chapter</prefix>
         <num>5.66</num>
         <heading>Short Term Rentals</heading>

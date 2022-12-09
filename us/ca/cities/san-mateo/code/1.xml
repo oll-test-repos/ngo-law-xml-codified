@@ -204,7 +204,7 @@
             <tbody>
               <tr>
                 <td>Community Development Director, Neighborhood Improvement and Housing Manager, Sr. Code Enforcement Officer, Code Enforcement Officer</td>
-                <td>Titles <cite path="7">7</cite>, <cite path="8">8</cite>, <cite path="10">10</cite>, <cite path="23">23</cite>, <cite path="25">25</cite>, <cite path="27">27</cite>, Chapters <cite path="5.06">5.06</cite>, <cite path="5.64">5.64</cite>, Sections <cite path="11.40.110">11.40.110</cite>, <cite path="17.08.010">17.08.010</cite>, <cite path="17.08.020">17.08.020</cite>, <cite path="17.08.160">17.08.160</cite>, <cite path="17.08.170">17.08.170</cite>, <cite path="17.08.180|(a)">17.08.180(a)</cite>, <cite path="17.20.010">17.20.010</cite>, <cite path="17.29.040">17.29.040</cite></td>
+                <td>Titles <cite path="7">7</cite>, <cite path="8">8</cite>, <cite path="10">10</cite>, <cite path="23">23</cite>, <cite path="25">25</cite>, <cite path="27">27</cite>, Chapters <cite path="5.06">5.06</cite>, <cite path="5.64">5.64</cite>, <cite path="5.66">5.66</cite>, Sections <cite path="11.40.110">11.40.110</cite>, <cite path="17.08.010">17.08.010</cite>, <cite path="17.08.020">17.08.020</cite>, <cite path="17.08.160">17.08.160</cite>, <cite path="17.08.170">17.08.170</cite>, <cite path="17.08.180|(a)">17.08.180(a)</cite>, <cite path="17.20.010">17.20.010</cite>, <cite path="17.29.040">17.29.040</cite></td>
               </tr>
               <tr>
                 <td>Building Official, Deputy Building Official, Building Inspector</td>
@@ -241,6 +241,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-10" path="§1" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§1" type="History"/>
       </annotations>
     </section>
     <section>

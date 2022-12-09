@@ -25,7 +25,7 @@
     </section>
     <section>
       <num>17.08.020</num>
-      <heading>Placing Certain Objects in the Public Right-of-Way Prohibited.</heading>
+      <heading>Placing Certain Objects in the Public Right-of-Way Prohibited</heading>
       <text>No person shall place or cause to be placed, anywhere upon any public way, right-of-way, street, or sidewalk, and no person owning, occupying, or having the control of any premises shall suffer to remain in front thereof, upon any sidewalk, in the public right-of-way, of the half of the street or way next to such premises any appliances, furniture, bench, inoperable vehicles, boats, machinery, foods, merchandise, implement box, debris box, mailbox, or other object, which shall be an obstruction for more than one hour at a time.</text>
       <text>The foregoing shall not apply to:</text>
       <para>
@@ -66,11 +66,15 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>Restaurant seating and associated means of delineating the physical extent of the seating area conforming to the standards set forth in <cite path="27.85.030">Section 27.85.030</cite> and under permit or direction of the Superintendent of Streets; and</text>
+        <text>Restaurant seating and associated means of delineating the physical extent of the seating area conforming to the standards set forth in <cite path="27.85.030">Section 27.85.030</cite> and under permit or direction of the Superintendent of Streets;</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>Sidewalk vendors.</text>
+        <text>Sidewalk vendors; and</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Storage containers placed in the public right-of-way for no longer than seven days with the option of a seven-day extension for a maximum term of fourteen days, if permitted by the Director of Public Works or designee pursuant to Municipal Code Sections <cite path="17.08.070">17.08.070</cite>, <cite path="17.08.080">17.08.080</cite>, and <cite path="17.08.090">17.08.090</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 66.02</annotation>
@@ -81,6 +85,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-24" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-8" path="§4" type="History"/>
         <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§6" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-5" eff="2021-03-18" path="§1" type="History"/>
       </annotations>
     </section>
     <section>

@@ -57,7 +57,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="17.08.020">Section 17.08.020</cite>, "Placing Certain Objects in the Public Right-of-Way Prohibited," of <cite doc="City of San Mateo, Cal., Code" path="17.08">Chapter 17.08, "Obstructions – Litter" of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="17.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.020" codified:citation="Section 17.08.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="17.08.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|17.08.020"/>
         <num>17.08.020</num>
         <heading>Placing Certain Objects in the Public Right-of-Way Prohibited</heading>
         <text>No person shall place or cause to be placed, anywhere upon any public way, right-of-way, street, or sidewalk, and no person owning, occupying, or having the control of any premises shall suffer to remain in front thereof, upon any sidewalk, in the public right-of-way, of the half of the street or way next to such premises any appliances, furniture, bench, inoperable vehicles, boats, machinery, foods, merchandise, implement box, debris box, mailbox, or other object, which shall be an obstruction for more than one hour at a time.</text>
