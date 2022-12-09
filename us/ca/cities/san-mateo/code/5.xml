@@ -5924,12 +5924,28 @@
     </section>
     <section>
       <num>5.89.060</num>
-      <heading>Authorization for County Enforcement</heading>
-      <text>In addition to the City's enforcement mechanisms set forth in <cite path="1">Title 1</cite> of this Code, the City of San Mateo authorizes the County of San Mateo to enforce <cite path="5.89">this Chapter</cite> of the Municipal Code, including, without limitation, the authority to act on requests for undue hardship exemptions, hold hearings, issue administrative fines, and retain collected fines.</text>
+      <heading>Case-by-Case Consideration of Requests for Hardship Exemption</heading>
+      <para>
+        <num>(a)</num>
+        <text>Grounds for an exemption. An exemption from any of the provisions of <cite path="5.89" proof="needed">this Chapter</cite> may be granted by the City upon demonstration by a Food Facility to the satisfaction of the City that strict application of the requirements would cause undue hardship. An "undue hardship" includes, but is not limited to the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A situation unique to the Food Facility where a suitable alternative that conforms with the requirements detailed in <cite path="5.89.030" proof="needed">Section 5.89.030</cite> (a), (b), (d), and (e) does not exist for a specific application.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Imposing the provisions of <cite path="5.89" proof="needed">this Chapter</cite> would cause significant economic hardship. "Significant economic hardship" may be based on, but not limited to, demonstrating that suitable Disposable Food Service Ware is not available at a commercially reasonable price and the additional cost associated with providing the Disposable Food Service Ware is particularly burdensome to the Food Facility based on the type of operation(s) affected, the overall size of the business/operation, the number, type and location of its facilities, the impact on the overall financial resources of the Food Facility, and other factors. Reasonable added cost for a suitable item as compared to a similar item that the Food Facility can no longer use shall not by itself constitute adequate grounds to support an exemption for such item. In determining whether a significant economic hardship has been established, the City shall consider the following information: ability of the Food Facility to recover the additional expense by increasing its prices; the availability of tax credits and deductions; outside funding; and other options.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Request for an exemption. A request for an exemption from the requirements of <cite path="5.89" proof="needed">this Chapter</cite> shall include all information deemed necessary by the City to render a decision, including but not limited to documentation showing the factual support for the requested exemption. A request for an exemption may be approved by the City, in whole or in part, with or without conditions. The duration of the exemption, if granted, shall also be determined by the City.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
         <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
         <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§5" type="History"/>
+        <annotation app="2022-10-06" doc="City of San Mateo, Cal., Ord. No. 2022-8" eff="2022-10-06" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
