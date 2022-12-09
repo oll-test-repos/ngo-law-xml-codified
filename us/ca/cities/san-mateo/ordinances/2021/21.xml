@@ -35,7 +35,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="11.29">Chapter 11.29 "Pedestrian Malls" of the San Mateo Municipal Code</cite> is added as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="11" after="11.28" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29" codified:citation="Chapter 11.29" codified:display="New">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="11" after="11.28" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29">
       <container>
         <prefix>Chapter</prefix>
         <num>11.29</num>
@@ -44,20 +44,20 @@
     </codify:insert>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.010" codified:citation="Section 11.29.010" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.010"/>
         <num>11.29.010</num>
         <heading>Adoption and Purpose</heading>
         <text><cite doc="City of San Mateo, Cal., Code" path="11.29">This chapter</cite> shall be known and may be cited as the "Pedestrian Malls Ordinance." The purpose of <cite doc="City of San Mateo, Cal., Code" path="11.29">this chapter</cite> is to establish rules and regulations pertaining to the operation of pedestrian malls.</text>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.020" codified:citation="Section 11.29.020" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.020"/>
         <num>11.29.020</num>
         <heading>Definitions</heading>
         <text><strong>Pedestrian Malls </strong>means streets, or portions thereof, on which vehicle traffic is restricted in whole or in part and which is to be used exclusively or primarily for pedestrian travel.</text>
         <text><strong>Motorized Vehicular Traffic </strong>means vehicular traffic powered by motor, including without limitation, automobiles, trucks, buses, motorcycles, motor or e-scooters.</text>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.030" codified:citation="Section 11.29.030" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.030"/>
         <num>11.29.030</num>
         <heading>Boundaries</heading>
         <text>Pedestrian malls are established along the following boundaries, excluding the east-west traffic on the intersecting streets:</text>
@@ -71,7 +71,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.040" codified:citation="Section 11.29.040" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.040"/>
         <num>11.29.040</num>
         <heading>Prohibition of Vehicular Traffic</heading>
         <text>All motorized vehicular traffic is prohibited on a pedestrian mall subject to the following exceptions:</text>
@@ -101,7 +101,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.050" codified:citation="Section 11.29.050" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29" codified:doc="City of San Mateo, Cal., Code" codified:path="|11.29.050"/>
         <num>11.29.050</num>
         <heading>Permits for Use of Pedestrian Mall</heading>
         <para>
