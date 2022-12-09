@@ -41,7 +41,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="3.56.120">Section 3.56.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.56.120" codified:citation="Section 3.56.120" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|3.56.120"/>
         <num>3.56.120</num>
         <heading>Actions to Collect.</heading>
         <para>

@@ -35,7 +35,7 @@
       <conjunction>NOW, THEREFORE,</conjunction>
       <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
       <text><cite doc="City of San Mateo, Cal., Code" path="2.25">Chapter 2.25</cite> "Housing Rehabilitation Loan Committee" is repealed from the City of San Mateo Municipal Code.</text>
-      <codify:repeal doc="City of San Mateo, Cal., Code" path="2.25" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.25.010" codified:citation="Section 2.25.010" codified:display="Repeal"/>
+      <codify:repeal doc="City of San Mateo, Cal., Code" path="2.25" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.25.010"/>
     </recital>
   </recitals>
   <section>
