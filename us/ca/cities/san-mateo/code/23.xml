@@ -5137,7 +5137,7 @@
       <heading>PROGRAM ALLOCATIONS—IN LIEU FEE PAYMENTS.</heading>
       <para>
         <num>(a)</num>
-        <text>The program allocation, as used in <cite path="23.60">this chapter</cite>, is the percentage of the building cost which is set aside for the City's Art in Public Places Program. The program allocation shall be an amount equal to one-half of one percent of the total building valuation, excluding land acquisition and off-site improvement costs. The total building valuation shall be computed using the latest building valuation data as set forth by the International Conference of Building Officials (ICBO) unless, in the opinion of the Building Official, a different valuation measure should be used.</text>
+        <text>The program allocation, as used in <cite path="4">this Chapter</cite>, is the percentage of the building cost which is set aside for the City's Art in Public Places Program.  The amount of the program allocation shall be established by City Council resolution and based upon total building valuation, excluding land acquisition and off-site improvement costs.  The total building valuation shall be computed using the latest building valuation data as set forth by the International Conference of Building Officials (ICBO) unless, in the opinion of the Building Official, a different valuation measure should be used.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5149,6 +5149,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-13" path="§1" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§4|(a)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5583,6 +5584,28 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-8" path="§2" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23.65</num>
+    <heading>Child Care Development Fee</heading>
+    <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
+    <section>
+      <num>23.65.010</num>
+      <heading>Purpose</heading>
+      <text>The purpose of the childcare development fee is to fund the development of child care facilities in order to serve a need created by both commercial and residential development.</text>
+      <annotations>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.65.020</num>
+      <heading>Fee</heading>
+      <text>A childcare development impact fee, in an amount established by City Council resolution is imposed on all residential and commercial development, including new development, addition of square footage to existing development, and tenant improvements to existing structures if those tenant improvements require planning approval.</text>
+      <annotations>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
       </annotations>
     </section>
   </container>

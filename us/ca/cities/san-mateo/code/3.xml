@@ -1034,10 +1034,11 @@
         <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
+      <reason>Repealed</reason>
       <num>3.54.060</num>
       <heading>SEWER CONNECTION CHARGES.</heading>
-      <text>Before making a connection to the sanitary sewer system, a permit shall be obtained from the Building Official. No connection permit shall be issued except upon payment of the applicable sewer connection charge. The sewer connection charge shall be established by resolution of the City Council.</text>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-9" path="§1" type="History"/>
@@ -1045,6 +1046,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-2" path="§1" type="History"/>
         <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1058,70 +1060,17 @@
         <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
+      <reason>Repealed</reason>
       <num>3.54.080</num>
       <heading>SOUTH TRUNK SEWER AREA IMPACT FEE.</heading>
-      <para>
-        <num>(a)</num>
-        <text>As of March 1, 2008, there is hereby imposed on all development, whether new development or redevelopment, in the South Trunk Sewer Area (generally that area extending south from the Dale Avenue Pump Station utility corridor parallel to Highway 101, and upstream in or parallel to East 16th Avenue, South Delaware Street through the Bay Meadows area, and Railroad Avenue and South El Camino Real, and extending up Borel Avenue, West Hillsdale Boulevard, and Saratoga Drive but excluding Bay Meadows Phase I and Phase II) a sewer area development impact fee for each type of sewer connection.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The impact fee shall be collected at the same time the sewer connection charge imposed under <cite path="3.54">this chapter</cite> is collected and shall be placed in the sewer service fund established pursuant to <cite path="3.54">this chapter</cite>.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The amount of impact fee charged shall be established by resolution of the City Council and based upon dwelling unit equivalents as follows:</text>
-        <text>
-          <table>
-            <caption>Dwelling Unit Equivalents</caption>
-            <thead>
-              <tr>
-                <th>Development Type</th>
-                <th>Unit</th>
-                <th>EDUs</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Single-family dwelling</td>
-                <td>Dwelling unit</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Multi-family dwelling, 1 bedroom</td>
-                <td>Dwelling unit</td>
-                <td>0.5</td>
-              </tr>
-              <tr>
-                <td>Multi-family dwelling, 2 bedroom</td>
-                <td>Dwelling unit</td>
-                <td>0.75</td>
-              </tr>
-              <tr>
-                <td>Multi-family dwelling, 3 bedroom</td>
-                <td>Dwelling unit</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Hotels or motels</td>
-                <td>Room</td>
-                <td>0.5</td>
-              </tr>
-              <tr>
-                <td>Nonresidential</td>
-                <td>Fixture unit</td>
-                <td>0.05</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2014-6" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-2" path="§2" type="History"/>
         <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" type="History"/>
       </annotations>
     </section>
     <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>

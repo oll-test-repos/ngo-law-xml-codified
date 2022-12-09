@@ -3784,6 +3784,14 @@
       </annotations>
     </section>
     <section>
+      <num>7.38.065</num>
+      <heading>Wastewater Capacity Charge</heading>
+      <text>A wastewater capacity charge is imposed on all new development to recover a proportionate share of costs for existing and future wastewater system facilities and assets from new or expanded connections to City wastewater systems. The applicable wastewater capacity charge is determined by use, wastewater flow, and wastewater strength loadings and the amount shall be established by City Council resolution.</text>
+      <annotations>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§3" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>7.38.070</num>
       <heading>SEVERABILITY AND VALIDITY.</heading>
       <text>If any portion of <cite path="7.38">this chapter</cite> is declared invalid, the remaining portions of <cite path="7.38">this chapter</cite> shall remain valid.</text>
