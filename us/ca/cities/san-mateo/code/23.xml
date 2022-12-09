@@ -1226,10 +1226,10 @@
     <heading>ENERGY CODE</heading>
     <section>
       <num>23.24.010</num>
-      <heading>ADOPTION.</heading>
+      <heading>Adoption</heading>
       <para>
         <num>(a)</num>
-        <text>The Building Energy Efficiency Standards for Residential and Non-Residential Buildings, 2016 Edition, <cite path="24">Title 24</cite>, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        <text>The California Energy Code, 2019 Edition, <cite path="24">Title 24</cite>, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended for so long as the 2019 Edition of the Building Code is in effect;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1237,120 +1237,220 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.24.020</num>
-      <heading>LOCAL AMENDMENT FOR COOL ROOFS.</heading>
-      <text>Section 110.8(i)1, Mandatory Requirements for Insulation, Roofing Products and Radiant Barriers is amended as follows:</text>
+      <heading>Local Amendment to Definitions</heading>
+      <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the state Energy Code is amended to include the following definitions:</text>
       <include>
-        <para>
-          <num>1.</num>
-          <text>The requirements of Section 110.8(i)1 supersede the thermal emittance and aged solar reflectance requirements of Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1H or 150.2(b). A roofing product's thermal emittance and an aged solar reflectance shall be certified and labeled according to the requirements of Section 10-113, and meet the following requirements:</text>
-          <para>
-            <num>i.</num>
-            <text>Non-Residential Buildings:</text>
-            <para>
-              <num>a.</num>
-              <text>Low-sloped roofs shall have:</text>
-              <para>
-                <num>1.</num>
-                <text>A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
-              </para>
-              <aftertext><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
-              <aftertext><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
-            </para>
-          </para>
-          <para>
-            <num>ii.</num>
-            <text>High-rise residential buildings and hotels and motels:</text>
-            <para>
-              <num>a.</num>
-              <text>Low-sloped roofs shall have:</text>
-              <para>
-                <num>1.</num>
-                <text>A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
-              </para>
-              <aftertext><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
-              <aftertext><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
-            </para>
-          </para>
-          <para>
-            <num>iii.</num>
-            <text>Low-rise residential buildings with low-sloped roofs shall have a minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85 or a minimum SRI of 85.</text>
-            <text><strong>Exception 1</strong>: Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft<sup>2</sup> are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-            <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-          </para>
-        </para>
+        <text><strong>All-Electric building or all-electric design</strong> is a building or building design that uses a permanent supply of electricity as the only source of energy for space conditioning (including heating and cooling), water heating (including pools and spas), cooking appliances, and clothes drying appliances, and has no natural gas or propane plumbing installed at the building.</text>
+        <text><strong>Mixed-fuel building or mixed-fuel design</strong> is a building or building design that uses natural gas or propane as fuel for space heating, water heating (including pools and spas), cooking appliances or clothes drying appliances or is plumbed for such equipment.</text>
+        <text><strong>Accessory building</strong>, shall have the meaning set forth in <cite path="27.04.010">Section 27.04.010</cite> of the City of San Mateo Municipal Code.</text>
       </include>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.24.030</num>
-      <heading>LOCAL AMENDMENT FOR MANDATORY SOLAR INSTALLATIONS.</heading>
-      <text>Subchapter 2—All Occupancies—Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components is amended to include:</text>
+      <heading>Local Amendment Regarding Mandatory Solar Installations</heading>
+      <text>Subchapter 5—"Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," Section 140.0(b), of the state Energy Code is amended to include:</text>
       <include>
         <para>
           <num>A.</num>
-          <text>Solar photovoltaic systems shall be installed on both non-residential and residential building types as follows:</text>
+          <text>Solar photovoltaic systems shall be installed as follows:</text>
           <para>
             <num>1.</num>
-            <text>Non-Residential Buildings:</text>
-            <para>
-              <num>a.</num>
-              <text>New non-residential buildings with less than 10,000 square feet of gross floor area shall provide a minimum of a 3 kilowatt photovoltaic system.</text>
-            </para>
-            <para>
-              <num>b.</num>
-              <text>New non-residential buildings greater than or equal to 10,000 square feet of gross floor area shall provide a minimum of a 5 kilowatt photovoltaic system.</text>
-            </para>
+            <text>New residential buildings four stories or more shall provide a minimum of a 3-kilowatt photovoltaic system.</text>
           </para>
           <para>
             <num>2.</num>
-            <text>Residential Buildings:</text>
-            <para>
-              <num>a.</num>
-              <text>New single-family buildings, including townhomes and duplexes, shall provide a minimum of a 1 kilowatt photovoltaic system.</text>
-            </para>
-            <para>
-              <num>b.</num>
-              <text>New multi-family buildings containing between 3 and 16 units shall provide a minimum of a 2 kilowatt photovoltaic system.</text>
-            </para>
-            <para>
-              <num>c.</num>
-              <text>New multi-family buildings containing 17 or more units shall provide a minimum of a 3 kilowatt photovoltaic system.</text>
-            </para>
+            <text>New non-residential buildings with less than 10,000 square feet of gross floor area shall provide a minimum of a 3- kilowatt photovoltaic system.</text>
           </para>
+          <para>
+            <num>3.</num>
+            <text>New non-residential buildings greater than or equal to 10,000 square feet of gross floor area shall provide a minimum of a 5-kilowatt photovoltaic system.</text>
+          </para>
+          <aftertext><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
         </para>
-        <aftertext><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
       </include>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.24.040</num>
-      <heading>INFEASIBILITY EXEMPTION.</heading>
-      <text>If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of <cite path="23.24">this Chapter</cite>, the applicant may request an exemption as set forth in <cite path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the exemption, the burden is on the Applicant to show infeasibility.</text>
+      <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Office Use Buildings</heading>
+      <para>
+        <num>(a)</num>
+        <text>All-electric buildings with office use are required to meet the established energy efficiency standards in Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the state Energy Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Mixed-fuel buildings with office use shall comply with increased energy efficiency standards. Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the state Energy Code is amended to require increased energy efficiency standards in the performance or prescriptive compliance approaches as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Performance Approach: Energy Code Section 140.1 "Performance Approach: Energy Budgets" is amended to include the following performance standards for mixed-fuel buildings with office use:</text>
+          <include>
+            <text>A newly constructed mixed-fuel building complies with the performance approach if the energy budget calculated for the Proposed Design Building under Subsection (b) has a compliance margin exceeding the energy budget calculated for the Standard Design Building under Subsection (a) of at least the value specified for the corresponding occupancy type in Table 140.1-A below.</text>
+            <text>
+              <table>
+                <caption>Table 140.1-A Mixed-fuel Building Energy Budgets Adjustments</caption>
+                <thead>
+                  <tr>
+                    <th>Occupancy Type</th>
+                    <th>Compliance Margin Exceeding State Code</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Office</td>
+                    <td>10%</td>
+                  </tr>
+                  <tr>
+                    <td>All Other occupancies</td>
+                    <td>
+                      <u>0%</u>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prescriptive Approach: Energy Code Section 140.2 "Prescriptive Approach" is amended to include the following prescriptive standards for mixed-fuel buildings with office use:</text>
+          <include>
+            <para>
+              <num>(A)</num>
+              <text>Install fenestration with a solar heat gain coefficient no greater than 0.22.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Limit the fenestration area on east-facing and west-facing walls to one-half of the average amount of north-facing and south-facing fenestration.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Design Variable Air Volume (VAV) box minimum airflows to be equal to the zone ventilation minimums.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Include economizers and staged fan control in air handlers with a mechanical cooling capacity ≥ 33,000 Btu/h</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Reduce the total lighting power density (Watts/ft<sup>2</sup>) by ten percent (10%) from that required from Table 140.6-C.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Improve lighting without claiming any Power Adjustment Factor credits:</text>
+              <para>
+                <num>(i)</num>
+                <text>Control to daylight dimming plus off per Section 140.6(a)2H, and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Install Occupant Sensing Controls in Large Open Plan Offices per Section 140.6(a)2I and Perform Institutional Tuning per Section 140.6(a)2J.</text>
+              </para>
+            </para>
+          </include>
+        </para>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
-    <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History" estimate="true"/>
+    <section>
+      <num>23.24.050</num>
+      <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Single Family and Duplex Buildings</heading>
+      <para>
+        <num>(a)</num>
+        <text>Accessory buildings and low-rise multifamily buildings are required to meet the established energy efficiency standards in Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All-electric single-family and duplex buildings are required to meet the established energy efficiency standards in Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Mixed-fuel single family and duplex buildings shall comply with increased energy efficiency standards. Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code is amended to require increased energy efficiency standards in the performance and prescriptive compliance approaches as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Performance Approach: Section 150.1.b. "Performance standards" is amended to include the following performance standard for mixed-fuel single family and duplex buildings:</text>
+          <include>
+            <text>The Energy Efficiency Design Rating calculated for the Proposed Design Building shall be at least 2.5 EDR points less than the Energy Efficiency Design Rating calculated for the Standard Design Building.</text>
+          </include>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prescriptive Approach: Section 150.1.c. "Prescriptive standards/component packages" is amended to include the following prescriptive standards for mixed-fuel single-family and duplex buildings:</text>
+          <include>
+            <para>
+              <num>(A)</num>
+              <text>Duct System Sealing and Leakage Testing.  The duct systems shall exceed the minimum mandatory requirements of Section 150.0(m)11 A and B such that the total duct system leakage shall not exceed 2 percent of the nominal system air handler air flow.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Slab floor perimeter insulation shall be installed with an R-value equal to or greater than R10. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The hot water distribution system shall be designed and installed to meet minimum requirements for the basic compact hot water distribution credit according to the procedures outlined in the 2019 Reference Appendices RA4.4.6.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Central Fan Integrated Ventilation Systems. The duct distribution system shall be designed reduce external static pressure to meet a maximum fan efficacy equal to:</text>
+              <para>
+                <num>(i)</num>
+                <text>Gas Furnaces: 0.35 Watts per cfm</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Heat Pumps: 0.45 Watts per cfm, according to the procedures outlined in the 2019 Reference Appendices RA 3.3.</text>
+              </para>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>For buildings with either space heating or water heating systems fueled by gas or propane, also include:</text>
+              <para>
+                <num>(i)</num>
+                <text>5 kWh battery of battery storage, OR</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>A solar water heating system with a minimum solar savings fraction of 0.20.</text>
+              </para>
+            </para>
+          </include>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.24.060</num>
+      <heading>Modifications</heading>
+      <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite path="23.24">this Chapter</cite>, the applicant may request a modification as set forth in <cite path="23.06">Chapter 23.06</cite> of this Code. In applying for the modification, the burden is on the Applicant to demonstrate infeasibility to the City's Building Official.</text>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(a)" type="History"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.24.070</num>
+      <heading>Expiration</heading>
+      <text>These local code amendments shall sunset when the California Energy Code, 2019 Edition, is no longer in effect.</text>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-9" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -5356,10 +5456,10 @@
     </annotations>
     <section>
       <num>23.70.010</num>
-      <heading>ADOPTION.</heading>
+      <heading>Adoption</heading>
       <para>
         <num>(a)</num>
-        <text>The California Green Building Standards Code, 2016 Edition, <cite path="24">Title 24</cite>, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
+        <text>The California Green Building Standards Code, 2019 Edition, <cite path="24">Title 24</cite>, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5369,134 +5469,131 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-16" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-13" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.70.020</num>
-      <heading>LOCAL AMENDMENT FOR LAUNDRY-TO-LANDSCAPE READY INFRASTRUCTURE.</heading>
-      <text>The California Green Building Standards Code, 2016 Edition, Section 4.305, Water Reuse Systems is amended as follows:</text>
-      <include>
-        <para>
-          <num>1.</num>
-          <heading>Laundry-to-Landscape Infrastructure:</heading>
-          <text>Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
-          <para>
-            <num>a.</num>
-            <heading>Note:</heading>
-            <text>A complete laundry to landscape irrigation system shall comply with the California Plumbing Code Section 1502.1.1, Clothes Washer System.</text>
-          </para>
-        </para>
-      </include>
+      <heading>Local Amendments to Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The definitions contained Chapter 2, "Definitions" of the state Green Building Code are adopted.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The most commonly used definitions are set forth below:</text>
+        <include>
+          <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
+          <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
+          <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
+        </include>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Chapter 2 "Definitions," Section 202 of the state Green Building Code is amended to include the following definition:</text>
+        <include>
+          <text><strong>Level 2 EVSE.</strong> An EVSE capable of charging at 30 amperes or higher at 208 or 240 VAC. An EVSE capable of simultaneously charging at 30 amperes for each of two vehicles shall be counted as two Level 2 EVSE.</text>
+        </include>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.70.030</num>
-      <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW MULTIFAMILY RESIDENTIAL CONSTRUCTION.</heading>
-      <text>The California Green Building Standards Code, 2016 Edition, Section 4.106.4.2, Electric vehicle (EV) charging space requirements for new multifamily dwellings is amended to include: (a) standards for new multifamily dwellings containing three to 16 units, and (b) increased standards for new multifamily dwellings containing 17 or more units as follows:</text>
-      <include>
-        <para>
-          <num>(a)</num>
-          <text>New multifamily dwellings containing three to 16 units: Where between three to 16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>New multifamily dwellings containing 17 or more units: Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE. Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
-        </para>
-      </include>
-      <text><u>Note</u>: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
+      <heading>Local Amendment Regarding Electric Vehicle Charging For New One- and Two-Family Dwellings and Town-Houses</heading>
+      <para>
+        <num>(a)</num>
+        <text>Green Building Code Section 4.106.4.1, "New one- and two-family dwellings and town-houses with attached private garages," is amended to require the Tier 1 and Tier 2 requirement per Section A4.106.8.1 and A4.106.8.1.1 of the Green Building Code as follows:</text>
+        <include>
+          <para>
+            <num>(1)</num>
+            <text>Tier 1 and Tier 2. For each dwelling unit, a dedicated 208/240-volt branch circuit shall be installed in the raceway required by Section 4.106.4.1. The branch circuit and associated overcurrent protective device shall be rated at 40 amperes minimum. Other electrical components, including a receptacle or blank cover, related to this section shall be installed in accordance with the <em>California Electrical Code</em>.</text>
+            <text>A4.106.8.1.1 Identification. The service panel or sub-panel circuit directory shall identify the overcurrent protective device designated for future EV charging purposes as "EV READY" in accordance with the <em>California Electrical Code</em>. The receptacle or blank cover shall be identified as "EV READY."</text>
+          </para>
+        </include>
+      </para>
       <annotations>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.70.040</num>
-      <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW NONRESIDENTIAL CONSTRUCTION.</heading>
-      <text>The California Green Building Standards Code, 2016 Edition, Section 5.106.5.3.3 EV charging space calculation is amended to include the nonresidential/commercial voluntary Tier 2 Measure for EV charging space calculation per Section A5.106.5.3.3 as follows:</text>
-      <include>
-        <para>
-          <num>(a)</num>
-          <heading>New Nonresidential Construction.</heading>
-          <text>Table A5.106.5.3.2 shall be used to determine if single or multiple charging space requirements apply for future installation of electric vehicle supply equipment (EVSE). When a single charging space is required, refer to Section 5.106.5.3.1 for design requirements. When multiple charging spaces are required, refer to Section 5.106.5.3.2 for design requirements.</text>
-          <text>
-            <table>
-              <caption>TABLE A5.106.5.3.2</caption>
-              <thead>
-                <tr>
-                  <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
-                  <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>0-9</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>10-25</td>
-                  <td>2</td>
-                </tr>
-                <tr>
-                  <td>26-50</td>
-                  <td>4</td>
-                </tr>
-                <tr>
-                  <td>51-75</td>
-                  <td>6</td>
-                </tr>
-                <tr>
-                  <td>76-100</td>
-                  <td>6</td>
-                </tr>
-                <tr>
-                  <td>101-150</td>
-                  <td>12</td>
-                </tr>
-                <tr>
-                  <td>151-200</td>
-                  <td>17</td>
-                </tr>
-                <tr>
-                  <td>201 and over</td>
-                  <td>10 percent of total<sup>1</sup></td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>1. Calculation for spaces shall be rounded up to the nearest whole number.</text>
-        </para>
-      </include>
-      <text><u>Note</u>: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
+      <heading>Local Amendment Regarding Electric Vehicle Charging For New Multifamily Residential Construction</heading>
+      <para>
+        <num>(a)</num>
+        <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings," is amended to require the Residential Voluntary Tier 1 Measure for EV charging space calculation per Section A4.106.8.2, "New multifamily dwellings," as follows:</text>
+        <include>
+          <text>Tier 1: 15 percent of the total number of parking spaces on a building site, provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future electric vehicle supply equipment (EVSE). Calculations for required number of EV spaces shall be rounded up to the nearest whole number.</text>
+          <text>Requirements related to EV spaces for multifamily residential projects can be found in Green Building Code Sections 4.106.4.2.3 "Single EV space required" and 4.106.4.2.4 "Multiple EV spaces required."</text>
+        </include>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>23.70.050</num>
-      <heading>INFEASIBILITY EXEMPTION.</heading>
+      <heading>Local Amendment Regarding Electric Vehicle Charging for New Non-residential Construction</heading>
       <para>
         <num>(a)</num>
-        <text>Exemption. If an applicant for a covered project believes that circumstances exist that make it infeasible to meet the requirements of <cite path="23.70">this chapter</cite>, the applicant may request an exemption as set forth in <cite path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the exemption, the burden is on the applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
-        <para>
-          <num>(1)</num>
-          <text>Where there is insufficient electrical supply.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may adversely impact the construction cost of the project.</text>
-        </para>
+        <text>Green Building Code Section 5.106.5.3.3, "EV charging space calculation," is amended to require increased standards for new non-residential buildings with ten parking spaces or more as follows:</text>
+        <include>
+          <para>
+            <num>(1)</num>
+            <text>Ten percent of the total number of parking spaces provided for all types of parking facilities shall be EV spaces capable of supporting future EVSE. Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Five percent of the total number of parking spaces provided for all types of parking facilities shall be equipped with Level 2 EVSE. Calculations for the required number of spaces with Level 2 EVSE shall be rounded up to the nearest whole number.</text>
+            <text>Requirements related to EV spaces for nonresidential projects can be found in Green Building Code Sections 5.106.5.3.1 "Single charging space requirements" and 5.106.5.3.2 "Multiple charging space requirements."</text>
+          </para>
+        </include>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
-        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
       </annotations>
     </section>
-    <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History" estimate="true"/>
+    <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
+    <section>
+      <num>23.70.060</num>
+      <heading>Local Amendment Regarding Electric Vehicle Space Design Requirements</heading>
+      <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings," and Section 5.106.5.3.3, "EV charging space calculation" are amended to require EV space design requirements as follows:</text>
+      <include>
+        <text>For all projects subject to <cite path="24">Title 24</cite>, Part 2, Chapter 11B, construction documents shall indicate how many accessible EV spaces would be required under the California Code of Regulations <cite path="24">Title 24</cite>, Chapter 11B, if applicable, in order to convert EV spaces to include EVSE. Construction documents shall also demonstrate that the facility is designed such that compliance with accessibility standards, including Chapter 11B accessible routes, will be feasible for the required accessible EV Space at the time of EVSE installation. Surface slope for any area designated for accessible EV Space shall meet slope requirements in Chapter 11B and vertical clearance requirements in Chapter 11B at the time of original building construction.</text>
+      </include>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.70.070</num>
+      <heading>Modifications</heading>
+      <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite path="23.70">this Chapter</cite>, the applicant may request a modification set forth in <cite path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to show infeasibility. The Building Official may grant a modification to exempt the applicant from these requirements if he or she makes either of the following findings:</text>
+      <para>
+        <num>1.</num>
+        <text>Where there is insufficient electrical supply; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Where there is evidence substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may have a significant adverse impact the construction cost of the project.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§13|(c)" type="History"/>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>23.70.080</num>
+      <heading>Expiration</heading>
+      <text>These local code amendments shall sunset the when the California Green Building Standards Code, 2019 Edition, is no longer in effect.</text>
+      <annotations>
+        <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
