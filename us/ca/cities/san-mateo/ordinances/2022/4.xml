@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.02.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.02.030" codified:citation="Section 25.02.030" codified:display="Amend"/>
+        <codify:replace path="|25.02.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.02.030"/>
         <num>25.02.030</num>
         <heading>DEFINITIONS.</heading>
         <para>
@@ -281,7 +281,7 @@
         <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
       </container>
     </include>
-    <codify:replace path="|25.04|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04" codified:citation="Chapter 25.04" codified:display="Amend">
+    <codify:replace path="|25.04|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04">
       <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
     </codify:replace>
   </section>
@@ -290,7 +290,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.04.010">Section 25.04.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.04.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.010" codified:citation="Section 25.04.010" codified:display="Amend"/>
+        <codify:replace path="|25.04.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.010"/>
         <num>25.04.010</num>
         <heading>FINDINGS.</heading>
         <text>In enacting <cite doc="City of San Mateo, Cal., Code" path="25.04">this Chapter</cite>, the City Council finds:</text>
@@ -314,7 +314,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.04.020">Section 25.04.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.04.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.020" codified:citation="Section 25.04.020" codified:display="Amend"/>
+        <codify:replace path="|25.04.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.020"/>
         <num>25.04.020</num>
         <heading>RESTRICTIONS APPLICABLE TO SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
         <para>
@@ -385,7 +385,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.04.030">Section 25.04.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.04.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.030" codified:citation="Section 25.04.030" codified:display="Amend"/>
+        <codify:replace path="|25.04.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.04.030"/>
         <num>25.04.030</num>
         <heading>EXEMPTIONS.</heading>
         <text>Notwithstanding any other provisions of <cite doc="City of San Mateo, Cal., Code" path="25.04">this Chapter</cite>, the following signs are permitted:</text>
@@ -445,7 +445,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.06.010">Section 25.06.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.06.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.010" codified:citation="Section 25.06.010" codified:display="Amend"/>
+        <codify:replace path="|25.06.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.010"/>
         <num>25.06.010</num>
         <heading>PERMIT REQUIRED.</heading>
         <text>Unless exempt, all signs require a sign permit issued by the City. Unless otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, no person shall install, erect, display, alter, move or replace any nonexempt sign without first obtaining a sign permit issued by the City in accordance with <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>. Signs requiring permits such as a building or electrical permit under the uniform construction codes shall obtain those permits prior to being erected; application for a building or other uniform construction code permit shall be filed concurrently with the sign application.</text>
@@ -457,7 +457,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.050" codified:citation="Section 25.06.050" codified:display="Amend"/>
+        <codify:replace path="|25.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.050"/>
         <num>25.06.050</num>
         <heading>SIGNS ALLOWED.</heading>
         <text>Except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, only the following signs are allowed on private property.</text>
@@ -556,7 +556,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.06.060">Section 25.06.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.06.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.060" codified:citation="Section 25.06.060" codified:display="Amend"/>
+        <codify:replace path="|25.06.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.060"/>
         <num>25.06.060</num>
         <heading>SIGNS ALLOWED WITHOUT PERMIT (EXEMPT SIGNS).</heading>
         <para>
@@ -682,7 +682,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.06.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.070" codified:citation="Section 25.06.070" codified:display="Amend"/>
+        <codify:replace path="|25.06.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.06.070"/>
         <num>25.06.070</num>
         <heading>ZONING REGULATIONS APPLICABLE TO SIGNS ON PRIVATE PROPERTY.</heading>
         <para>
@@ -1143,7 +1143,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="25.08.010">Section 25.08.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|25.08.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.08.010" codified:citation="Section 25.08.010" codified:display="Amend"/>
+        <codify:replace path="|25.08.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|25.08.010"/>
         <num>25.08.010</num>
         <heading>PROHIBITED SIGNS ON PUBLIC AND PRIVATE PROPERTY AND PUBLIC RIGHT OF WAY.</heading>
         <para>
